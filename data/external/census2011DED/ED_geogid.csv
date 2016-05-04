@@ -1,0 +1,3410 @@
+GEOGID,GEOGTYPE,GEOGDESC
+E01001,ED,Carlow Urban
+E01002,ED,Graigue Urban
+E01003,ED,Clonmore
+E01004,ED,Hacketstown
+E01005,ED,Haroldstown
+E01006,ED,Kineagh
+E01007,ED,Rahill
+E01008,ED,Rathvilly
+E01009,ED,Tiknock
+E01010,ED,Williamstown
+E01011,ED,Agha
+E01012,ED,Ballinacarrig
+E01013,ED,Ballintemple
+E01014,ED,Ballon
+E01015,ED,Ballyellin
+E01016,ED,Ballymoon
+E01017,ED,Borris
+E01018,ED,Burton Hall
+E01019,ED,Carlow Rural
+E01020,ED,Clogrenan
+E01021,ED,Clonegall
+E01022,ED,Corries
+E01023,ED,Cranemore
+E01024,ED,Fennagh
+E01025,ED,Garryhill
+E01026,ED,Grangeford
+E01027,ED,Johnstown
+E01028,ED,Kellistown
+E01029,ED,Kilbride
+E01030,ED,Killedmond
+E01031,ED,Killerrig
+E01032,ED,Leighlinbridge
+E01033,ED,Muinebeag (Bagenalstown) Rural
+E01034,ED,Muinebeag (Bagenalstown) Urban
+E01035,ED,Myshall
+E01036,ED,Nurney
+E01037,ED,Oldleighlin
+E01038,ED,Rathanna
+E01039,ED,Rathornan
+E01040,ED,Rathrush
+E01041,ED,Ridge
+E01042,ED,Shangarry
+E01043,ED,Sliguff
+E01044,ED,Tankardstown
+E01045,ED,Templepeter
+E01046,ED,Tullowbeg
+E01047,ED,Tullow Rural
+E01048,ED,Tullow Urban
+E01049,ED,Ballymurphy
+E01050,ED,Coonogue
+E01051,ED,Glynn
+E01052,ED,Kyle
+E01053,ED,Marley
+E01054,ED,Tinnahinch
+E02001,ED,Arran Quay A
+E02002,ED,Arran Quay B
+E02003,ED,Arran Quay C
+E02004,ED,Arran Quay D
+E02005,ED,Arran Quay E
+E02006,ED,Ashtown A
+E02007,ED,Ashtown B
+E02008,ED,Ayrfield
+E02009,ED,Ballybough A
+E02010,ED,Ballybough B
+E02011,ED,Ballygall A
+E02012,ED,Ballygall B
+E02013,ED,Ballygall C
+E02014,ED,Ballygall D
+E02015,ED,Ballymun A
+E02016,ED,Ballymun B
+E02017,ED,Ballymun C
+E02018,ED,Ballymun D
+E02019,ED,Ballymun E
+E02020,ED,Ballymun F
+E02021,ED,Beaumont A
+E02022,ED,Beaumont B
+E02023,ED,Beaumont C
+E02024,ED,Beaumont D
+E02025,ED,Beaumont E
+E02026,ED,Beaumont F
+E02027,ED,Botanic A
+E02028,ED,Botanic B
+E02029,ED,Botanic C
+E02030,ED,Cabra East A
+E02031,ED,Cabra East B
+E02032,ED,Cabra East C
+E02033,ED,Cabra West A
+E02034,ED,Cabra West B
+E02035,ED,Cabra West C
+E02036,ED,Cabra West D
+E02037,ED,Clontarf East A
+E02038,ED,Clontarf East B
+E02039,ED,Clontarf East C
+E02040,ED,Clontarf East D
+E02041,ED,Clontarf East E
+E02042,ED,Clontarf West A
+E02043,ED,Clontarf West B
+E02044,ED,Clontarf West C
+E02045,ED,Clontarf West D
+E02046,ED,Clontarf West E
+E02047,ED,Drumcondra South A
+E02048,ED,Drumcondra South B
+E02049,ED,Drumcondra South C
+E02050,ED,Edenmore
+E02051,ED,Finglas North A
+E02052,ED,Finglas North B
+E02053,ED,Finglas North C
+E02054,ED,Finglas South A
+E02055,ED,Finglas South B
+E02056,ED,Finglas South C
+E02057,ED,Finglas South D
+E02058,ED,Grace Park
+E02059,ED,Grange A
+E02060,ED,Grange B
+E02061,ED,Grange C
+E02062,ED,Grange D
+E02063,ED,Grange E
+E02064,ED,Harmonstown A
+E02065,ED,Harmonstown B
+E02066,ED,Inns Quay A
+E02067,ED,Inns Quay B
+E02068,ED,Inns Quay C
+E02069,ED,Kilmore A
+E02070,ED,Kilmore B
+E02071,ED,Kilmore C
+E02072,ED,Kilmore D
+E02073,ED,Mountjoy A
+E02074,ED,Mountjoy B
+E02075,ED,North City
+E02076,ED,North Dock A
+E02077,ED,North Dock B
+E02078,ED,North Dock C
+E02079,ED,Phoenix Park
+E02080,ED,Priorswood A
+E02081,ED,Priorswood B
+E02082,ED,Priorswood C
+E02083,ED,Priorswood D
+E02084,ED,Priorswood E
+E02085,ED,Raheny-Foxfield
+E02086,ED,Raheny-Greendale
+E02087,ED,Raheny-St. Assam
+E02088,ED,Rotunda A
+E02089,ED,Rotunda B
+E02090,ED,Whitehall A
+E02091,ED,Whitehall B
+E02092,ED,Whitehall C
+E02093,ED,Whitehall D
+E02094,ED,Chapelizod
+E02095,ED,Cherry Orchard A
+E02096,ED,Carna
+E02097,ED,Cherry Orchard C
+E02098,ED,Crumlin A
+E02099,ED,Crumlin B
+E02100,ED,Crumlin C
+E02101,ED,Crumlin D
+E02102,ED,Crumlin E
+E02103,ED,Crumlin F
+E02104,ED,Decies
+E02105,ED,Drumfinn
+E02106,ED,Inchicore A
+E02107,ED,Inchicore B
+E02108,ED,Kilmainham A
+E02109,ED,Kilmainham B
+E02110,ED,Kilmainham C
+E02111,ED,Kimmage A
+E02112,ED,Kimmage B
+E02113,ED,Kimmage C
+E02114,ED,Kimmage D
+E02115,ED,Kimmage E
+E02116,ED,Kylemore
+E02117,ED,Mansion House A
+E02118,ED,Mansion House B
+E02119,ED,Merchants Quay A
+E02120,ED,Merchants Quay B
+E02121,ED,Merchants Quay C
+E02122,ED,Merchants Quay D
+E02123,ED,Merchants Quay E
+E02124,ED,Merchants Quay F
+E02125,ED,Pembroke East A
+E02126,ED,Pembroke East B
+E02127,ED,Pembroke East C
+E02128,ED,Pembroke East D
+E02129,ED,Pembroke East E
+E02130,ED,Pembroke West A
+E02131,ED,Pembroke West B
+E02132,ED,Pembroke West C
+E02133,ED,Rathfarnham
+E02134,ED,Rathmines East A
+E02135,ED,Rathmines East B
+E02136,ED,Rathmines East C
+E02137,ED,Rathmines East D
+E02138,ED,Rathmines West A
+E02139,ED,Rathmines West B
+E02140,ED,Rathmines West C
+E02141,ED,Rathmines West D
+E02142,ED,Rathmines West E
+E02143,ED,Rathmines West F
+E02144,ED,Royal Exchange A
+E02145,ED,Royal Exchange B
+E02146,ED,St. Kevin's
+E02147,ED,South Dock
+E02148,ED,Terenure A
+E02149,ED,Terenure B
+E02150,ED,Terenure C
+E02151,ED,Terenure D
+E02152,ED,Ushers A
+E02153,ED,Ushers B
+E02154,ED,Ushers C
+E02155,ED,Ushers D
+E02156,ED,Ushers E
+E02157,ED,Ushers F
+E02158,ED,Walkinstown A
+E02159,ED,Walkinstown B
+E02160,ED,Walkinstown C
+E02161,ED,Wood Quay A
+E02162,ED,Wood Quay B
+E03001,ED,Ballinascorney
+E03002,ED,Ballyboden
+E03003,ED,Bohernabreena
+E03004,ED,Clondalkin-Ballymount
+E03005,ED,Clondalkin-Cappaghmore
+E03006,ED,Clondalkin-Dunawley
+E03007,ED,Clondalkin-Monastery
+E03008,ED,Clondalkin-Moorfield
+E03009,ED,Clondalkin-Rowlagh
+E03010,ED,Clondalkin Village
+E03011,ED,Edmondstown
+E03012,ED,Firhouse-Ballycullen
+E03013,ED,Firhouse-Knocklyon
+E03014,ED,Firhouse Village
+E03015,ED,Lucan-Esker
+E03016,ED,Lucan Heights
+E03017,ED,Lucan-St. Helen's
+E03018,ED,Newcastle
+E03019,ED,Palmerston Village
+E03020,ED,Palmerston West
+E03021,ED,Rathcoole
+E03022,ED,Rathfarnham-Ballyroan
+E03023,ED,Rathfarnham-Butterfield
+E03024,ED,Rathfarnham-Hermitage
+E03025,ED,Rathfarnham-St. Enda's
+E03026,ED,Rathfarnham Village
+E03027,ED,Saggart
+E03028,ED,Tallaght-Avonbeg
+E03029,ED,Tallaght-Belgard
+E03030,ED,Tallaght-Fettercairn
+E03031,ED,Tallaght-Glenview
+E03032,ED,Tallaght-Jobstown
+E03033,ED,Tallaght-Killinardan
+E03034,ED,Tallaght-Kilnamanagh
+E03035,ED,Tallaght-Kiltipper
+E03036,ED,Tallaght-Kingswood
+E03037,ED,Tallaght-Millbrook
+E03038,ED,Tallaght-Oldbawn
+E03039,ED,Tallaght-Springfield
+E03040,ED,Tallaght-Tymon
+E03041,ED,Templeogue-Cypress
+E03042,ED,Templeogue-Kimmage Manor
+E03043,ED,Templeogue-Limekiln
+E03044,ED,Templeogue-Orwell
+E03045,ED,Templeogue-Osprey
+E03046,ED,Templeogue Village
+E03047,ED,Terenure-Cherryfield
+E03048,ED,Terenure-Greentrees
+E03049,ED,Terenure-St. James
+E04001,ED,Airport
+E04002,ED,Balbriggan Rural
+E04003,ED,Balbriggan Urban
+E04004,ED,Baldoyle
+E04005,ED,Balgriffin
+E04006,ED,Ballyboghil
+E04007,ED,Balscadden
+E04008,ED,Blanchardstown-Abbotstown
+E04009,ED,Blanchardstown-Blakestown
+E04010,ED,Blanchardstown-Coolmine
+E04011,ED,Blanchardstown-Corduff
+E04012,ED,Blanchardstown-Delwood
+E04013,ED,Blanchardstown-Mulhuddart
+E04014,ED,Blanchardstown-Roselawn
+E04015,ED,Blanchardstown-Tyrrelstown
+E04016,ED,Castleknock-Knockmaroon
+E04017,ED,Castleknock-Park
+E04018,ED,Clonmethan
+E04019,ED,Donabate
+E04020,ED,Dubber
+E04021,ED,Garristown
+E04022,ED,Hollywood
+E04023,ED,Holmpatrick
+E04024,ED,Howth
+E04025,ED,Kilsallaghan
+E04026,ED,Kinsaley
+E04027,ED,Lucan North
+E04028,ED,Lusk
+E04029,ED,Malahide East
+E04030,ED,Malahide West
+E04031,ED,Portmarnock North
+E04032,ED,Portmarnock South
+E04033,ED,Rush
+E04034,ED,Skerries
+E04035,ED,Sutton
+E04036,ED,Swords-Forrest
+E04037,ED,Swords-Glasmore
+E04038,ED,Swords-Lissenhall
+E04039,ED,Swords-Seatown
+E04040,ED,Swords Village
+E04041,ED,The Ward
+E04042,ED,Turnapin
+E05001,ED,Ballinteer-Broadford
+E05002,ED,Ballinteer-Ludford
+E05003,ED,Ballinteer-Marley
+E05004,ED,Ballinteer-Meadowbroads
+E05005,ED,Ballinteer-Meadowmount
+E05006,ED,Ballinteer-Woodpark
+E05007,ED,Ballybrack
+E05008,ED,Blackrock-Booterstown
+E05009,ED,Blackrock-Carysfort
+E05010,ED,Blackrock-Central
+E05011,ED,Blackrock-Glenomena
+E05012,ED,Blackrock-Monkstown
+E05013,ED,Blackrock-Newpark
+E05014,ED,Blackrock-Seapoint
+E05015,ED,Blackrock-Stradbrook
+E05016,ED,Blackrock-Templehill
+E05017,ED,Blackrock-Williamstown
+E05018,ED,Cabinteely-Granitefield
+E05019,ED,Cabinteely-Kilbogget
+E05020,ED,Cabinteely-Loughlinstown
+E05021,ED,Cabinteely-Pottery
+E05022,ED,Churchtown-Castle
+E05023,ED,Churchtown-Landscape
+E05024,ED,Churchtown-Nutgrove
+E05025,ED,Churchtown-Orwell
+E05026,ED,Churchtown-Woodlawn
+E05027,ED,Clonskeagh-Belfield
+E05028,ED,Clonskeagh-Farranboley
+E05029,ED,Clonskeagh-Milltown
+E05030,ED,Clonskeagh-Roebuck
+E05031,ED,Clonskeagh-Windy Arbour
+E05032,ED,Dalkey-Avondale
+E05033,ED,Dalkey-Bullock
+E05034,ED,Dalkey-Coliemore
+E05035,ED,Dalkey Hill
+E05036,ED,Dalkey Upper
+E05037,ED,Dundrum-Balally
+E05038,ED,Dundrum-Kilmacud
+E05039,ED,Dundrum-Sandyford
+E05040,ED,Dundrum-Sweetmount
+E05041,ED,Dundrum-Taney
+E05042,ED,Dún Laoghaire-East Central
+E05043,ED,Dún Laoghaire-Glasthule
+E05044,ED,Dún Laoghaire-Glenageary
+E05045,ED,Dún Laoghaire-Monkstown Farm
+E05046,ED,Dún Laoghaire-Mount Town
+E05047,ED,Dún Laoghaire-Sallynoggin East
+E05048,ED,Dún Laoghaire-Sallynoggin South
+E05049,ED,Dún Laoghaire-Sallynoggin West
+E05050,ED,Dún Laoghaire-Sandycove
+E05051,ED,Dún Laoghaire-Salthill
+E05052,ED,Dún Laoghaire-West Central
+E05053,ED,Foxrock-Beechpark
+E05054,ED,Foxrock-Carrickmines
+E05055,ED,Foxrock-Deans Grange
+E05056,ED,Foxrock-Torquay
+E05057,ED,Glencullen
+E05058,ED,Killiney North
+E05059,ED,Killiney South
+E05060,ED,Shankill-Rathmichael
+E05061,ED,Shankill-Rathsallagh
+E05062,ED,Shankill-Shanganagh
+E05063,ED,Stillorgan-Deerpark
+E05064,ED,Stillorgan-Kilmacud
+E05065,ED,Stillorgan-Leopardstown
+E05066,ED,Stillorgan-Merville
+E05067,ED,Stillorgan-Mount Merrion
+E05068,ED,Stillorgan-Priory
+E05069,ED,Tibradden
+E06001,ED,Athy East Urban
+E06002,ED,Athy West Urban
+E06003,ED,Naas Urban
+E06004,ED,Athy Rural
+E06005,ED,Ballaghmoon
+E06006,ED,Ballitore
+E06007,ED,Ballybrackan
+E06008,ED,Ballyshannon
+E06009,ED,Belan
+E06010,ED,Bert
+E06011,ED,Burtown
+E06012,ED,Carrigeen
+E06013,ED,Castledermot
+E06014,ED,Churchtown
+E06015,ED,Dunmanoge
+E06016,ED,Fontstown
+E06017,ED,Graney
+E06018,ED,Grangemellon
+E06019,ED,Harristown
+E06020,ED,Inchaquire
+E06021,ED,Johnstown
+E06022,ED,Kilberry
+E06023,ED,Kildangan
+E06024,ED,Kilkea
+E06025,ED,Kilrush
+E06026,ED,Lackagh
+E06027,ED,Monasterevin
+E06028,ED,Moone
+E06029,ED,Narraghmore
+E06030,ED,Nurney
+E06031,ED,Quinsborough
+E06032,ED,Skerries
+E06033,ED,Balraheen
+E06034,ED,Celbridge
+E06035,ED,Cloncurry
+E06036,ED,Donadea
+E06037,ED,Donaghcumper
+E06038,ED,Kilcock
+E06039,ED,Leixlip
+E06040,ED,Maynooth
+E06041,ED,Straffan
+E06042,ED,Ballynadrumny
+E06043,ED,Cadamstown
+E06044,ED,Carbury
+E06045,ED,Carrick
+E06046,ED,Cloncurry
+E06047,ED,Drehid
+E06048,ED,Dunfierth
+E06049,ED,Killinthomas
+E06050,ED,Kilpatrick
+E06051,ED,Kilrainy
+E06052,ED,Lullymore
+E06053,ED,Rathangan
+E06054,ED,Thomastown
+E06055,ED,Windmill Cross
+E06056,ED,Ballymore Eustace
+E06057,ED,Ballysax East
+E06058,ED,Ballysax West
+E06059,ED,Bodenstown
+E06060,ED,Carnalway
+E06061,ED,Carragh
+E06062,ED,Clane
+E06063,ED,Donore
+E06064,ED,Downings
+E06065,ED,Droichead Nua (Newbridge) Rural
+E06066,ED,Droichead Nua (Newbridge) Urban
+E06067,ED,Dunmurry
+E06068,ED,Feighcullen
+E06069,ED,Gilltown
+E06070,ED,Kilcullen
+E06071,ED,Kildare
+E06072,ED,Kill
+E06073,ED,Killashee
+E06074,ED,Kilmeage North
+E06075,ED,Kilmeage South
+E06076,ED,Kilteel
+E06077,ED,Ladytown
+E06078,ED,Morristownbiller
+E06079,ED,Naas Rural
+E06080,ED,Newtown
+E06081,ED,Oldconnell
+E06082,ED,Oughterard
+E06083,ED,Pollardstown
+E06084,ED,Rathernan
+E06085,ED,Rathmore
+E06086,ED,Robertstown
+E06087,ED,Timahoe North
+E06088,ED,Timahoe South
+E06089,ED,Usk
+E07001,ED,Kilkenny No. 1 Urban
+E07002,ED,Kilkenny No. 2 Urban
+E07003,ED,Burnchurch
+E07004,ED,Callan Rural
+E07005,ED,Callan Urban
+E07006,ED,Coolaghmore
+E07007,ED,Dunamaggan
+E07008,ED,Earlstown
+E07009,ED,Kells
+E07010,ED,Killamery
+E07011,ED,Kilmaganny
+E07012,ED,Kilmanagh
+E07013,ED,Mallardstown
+E07014,ED,Scotsborough
+E07015,ED,Tullaghanbrogue
+E07016,ED,Boolyglass
+E07017,ED,Fiddown
+E07018,ED,Muckalee
+E07019,ED,Pilltown
+E07020,ED,Templeorum
+E07021,ED,Tubbrid
+E07022,ED,Tullahought
+E07023,ED,Whitechurch
+E07024,ED,Attanagh
+E07025,ED,Ballyragget
+E07026,ED,Castlecomer
+E07027,ED,Clogh
+E07028,ED,Clogharinka
+E07029,ED,Kilmacar
+E07030,ED,Moneenroe
+E07031,ED,Mothell
+E07032,ED,Muckalee
+E07033,ED,Brownsford
+E07034,ED,Dysartmoon
+E07035,ED,Jerpoint West
+E07036,ED,Listerlin
+E07037,ED,Rosbercon Rural
+E07038,ED,Shanbogh
+E07039,ED,The Rower
+E07040,ED,Ballinamara
+E07041,ED,Ballybeagh
+E07042,ED,Ballycallan
+E07043,ED,Clara
+E07044,ED,Coolcraheen
+E07045,ED,Dunbell
+E07046,ED,Dunmore
+E07047,ED,Freshford
+E07048,ED,Gowran
+E07049,ED,Grange
+E07050,ED,Kilkenny Rural
+E07051,ED,Kilkieran
+E07052,ED,Odagh
+E07053,ED,Outrath
+E07054,ED,Paulstown
+E07055,ED,Rathcoole
+E07056,ED,Rathealy
+E07057,ED,St. Canice
+E07058,ED,Shankill
+E07059,ED,Tiscoffin
+E07060,ED,Tullaroan
+E07061,ED,Aghaviller
+E07062,ED,Ballyhale
+E07063,ED,Ballyvool
+E07064,ED,Bennettsbridge
+E07065,ED,Bramblestown
+E07066,ED,Castlebanny
+E07067,ED,Castlegannon
+E07068,ED,Coolhill
+E07069,ED,Danesfort
+E07070,ED,Ennisnag
+E07071,ED,Famma
+E07072,ED,Freaghana
+E07073,ED,Goresbridge
+E07074,ED,Graiguenamanagh
+E07075,ED,Inistioge
+E07076,ED,Jerpoint Church
+E07077,ED,Kilfane
+E07078,ED,Kilkeasy
+E07079,ED,Kiltorcan
+E07080,ED,Knocktopher
+E07081,ED,Pleberstown
+E07082,ED,Powerstown
+E07083,ED,Stonyford
+E07084,ED,Thomastown
+E07085,ED,Tullaherin
+E07086,ED,Ullard
+E07087,ED,Woolengrange
+E07088,ED,Balleen
+E07089,ED,Ballyconra
+E07090,ED,Baunmore
+E07091,ED,Clomantagh
+E07092,ED,Galmoy
+E07093,ED,Glashare
+E07094,ED,Johnstown
+E07095,ED,Lisdowney
+E07096,ED,Rathbeagh
+E07097,ED,Tubbridbrittain
+E07098,ED,Urlingford
+E07099,ED,Aglish
+E07100,ED,Ballincrea
+E07101,ED,Dunkitt
+E07102,ED,Farnoge
+E07103,ED,Kilbeacon
+E07104,ED,Kilbride
+E07105,ED,Kilcolumb
+E07106,ED,Kilculliheen (part)
+E07107,ED,Killahy
+E07108,ED,Kilmakevoge
+E07109,ED,Pollrone
+E07110,ED,Portnascully
+E07111,ED,Rathpatrick
+E07112,ED,Rossinan
+E07113,ED,Ullid
+E08001,ED,Abbeyleix
+E08002,ED,Aghmacart
+E08003,ED,Ballinakill
+E08004,ED,Ballyroan
+E08005,ED,Blandsfort
+E08006,ED,Caher
+E08007,ED,Castletown
+E08008,ED,Clash
+E08009,ED,Clonkeen
+E08010,ED,Colt
+E08011,ED,Cuffsborough
+E08012,ED,Cullahill
+E08013,ED,Cullenagh
+E08014,ED,Donaghmore
+E08015,ED,Donore
+E08016,ED,Dunmore
+E08017,ED,Durrow
+E08018,ED,Dysartgallen
+E08019,ED,Fossy
+E08020,ED,Grantstown
+E08021,ED,Kilcoke
+E08022,ED,Kildellig
+E08023,ED,Killermogh
+E08024,ED,Kilnaseer
+E08025,ED,Raheen
+E08026,ED,Rathdowney
+E08027,ED,Timahoe
+E08028,ED,Ballyadams
+E08029,ED,Ballylynan
+E08030,ED,Barrowhouse
+E08031,ED,Curraclone
+E08032,ED,Killabban
+E08033,ED,Luggacurren
+E08034,ED,Moyanna
+E08035,ED,Rathaspick
+E08036,ED,Stradbally
+E08037,ED,Tankardstown
+E08038,ED,Timogue
+E08039,ED,Vicarstown
+E08040,ED,Arderin
+E08041,ED,Ballybrittas
+E08042,ED,Ballycarroll
+E08043,ED,Ballyfin
+E08044,ED,Borris
+E08045/08046,ED,Brisha / Capard
+E08047,ED,Cappalough
+E08048,ED,Cardtown
+E08049,ED,Castlecuffe
+E08050,ED,Clonaslee
+E08051,ED,Clondarrig
+E08052,ED,Clonin
+E08053,ED,Coolrain
+E08054,ED,Dangans
+E08055,ED,Emo
+E08056,ED,Garrymore
+E08057,ED,Graigue
+E08058,ED,Jamestown
+E08059,ED,Kilcolmanbane
+E08060,ED,Kilmullen
+E08061,ED,Kilmurry
+E08062,ED,Lacka
+E08063,ED,Marymount
+E08064,ED,Meelick
+E08065,ED,Mountmellick Rural
+E08066,ED,Mountmellick Urban
+E08067,ED,Mountrath
+E08068,ED,Nealstown
+E08069,ED,O'More's Forest
+E08070,ED,Portarlington South
+E08071,ED,Portlaoighise (Maryborough) Rural
+E08072,ED,Portlaoighise (Maryborough) Urban
+E08073,ED,Rearymore
+E08074,ED,Rosenallis
+E08075,ED,Sallyford
+E08076,ED,Shaen
+E08077,ED,Tinnahinch
+E08078,ED,Trumra
+E08079,ED,Ballybrophy
+E08080,ED,Borris-in-Ossory
+E08081,ED,Clonmore
+E08082,ED,Errill
+E08083,ED,Kyle
+E08084,ED,Kyle South
+E08085,ED,Moneenalassa
+E08086,ED,Moneymore
+E08087,ED,Rathsaran
+E08088,ED,Ardough
+E08089,ED,Arless
+E08090,ED,Ballickmoyler
+E08091,ED,Ballylehane
+E08092,ED,Doonane
+E08093,ED,Farnans
+E08094,ED,Graigue Rural
+E08095,ED,Newtown
+E08096,ED,Rossmore
+E08097,ED,Shrule
+E08098,ED,Turra
+E09001,ED,Longford No. 1 Urban
+E09002,ED,Longford No. 2 Urban
+E09003,ED,Agharra
+E09004,ED,Ballymahon
+E09005,ED,Cashel East
+E09006,ED,Cashel West
+E09007,ED,Doory
+E09008,ED,Forgney
+E09009,ED,Foxhall
+E09010,ED,Kilcommock
+E09011,ED,Kilglass
+E09012,ED,Ledwithstown
+E09013,ED,Abbeylara
+E09014,ED,Ballinalee
+E09015,ED,Ballymuigh
+E09016,ED,Bunlahy
+E09017,ED,Columbkille
+E09018,ED,Coolamber
+E09019,ED,Creevy
+E09020,ED,Crosagstown
+E09021,ED,Currygrane
+E09022,ED,Dalystown
+E09023,ED,Drummeel
+E09024/09035,ED,Firry / Newgrove
+E09025,ED,Gelshagh
+E09026,ED,Granard Rural
+E09027,ED,Granard Urban
+E09028,ED,Knockanbaun
+E09029,ED,Lislea
+E09030,ED,Meathas Truim
+E09031,ED,Milltown
+E09032,ED,Moatfarrell
+E09033,ED,Moyne
+E09034,ED,Mullanalaghta
+E09036,ED,Sonnagh
+E09037,ED,Aghaboy
+E09038,ED,Ardagh East
+E09039,ED,Ardagh West
+E09040,ED,Ballinamuck East
+E09041,ED,Ballinamuck West
+E09042,ED,Breanrisk
+E09043,ED,Caldragh
+E09044,ED,Cloondara
+E09045,ED,Cloonee
+E09046,ED,Corboy
+E09047,ED,Drumgort
+E09048,ED,Drumlish
+E09049,ED,Killashee
+E09050,ED,Killoe
+E09051,ED,Longford Rural
+E09052,ED,Mountdavis
+E09053,ED,Moydow
+E09054,ED,Newtown Forbes
+E09055,ED,Rathcline
+E10001,ED,Fair Gate
+E10002,ED,St. Laurence Gate
+E10003,ED,West Gate
+E10004,ED,Dundalk Urban No. 1
+E10005,ED,Dundalk Urban No. 2
+E10006,ED,Dundalk Urban No. 3
+E10007,ED,Dundalk Urban No. 4
+E10008,ED,Ardee Rural
+E10009,ED,Ardee Urban
+E10010,ED,Castlebellingham
+E10011,ED,Clonkeen
+E10012,ED,Collon
+E10013,ED,Dromin
+E10014,ED,Dromiskin
+E10015,ED,Drumcar
+E10016,ED,Dunleer
+E10017,ED,Stabannan
+E10018,ED,Tallanstown
+E10019,ED,Ballymascanlan
+E10020,ED,Barronstown
+E10021,ED,Carlingford
+E10022,ED,Castlering
+E10023,ED,Castletown
+E10024,ED,Creggan Upper
+E10025,ED,Darver
+E10026,ED,Drummullagh
+E10027,ED,Dundalk Rural
+E10028,ED,Faughart
+E10029,ED,Greenore
+E10030,ED,Haggardstown
+E10031,ED,Jenkinstown
+E10032,ED,Killanny
+E10033,ED,Louth
+E10034,ED,Mansfieldstown
+E10035,ED,Rathcor
+E10036,ED,Ravensdale
+E10037,ED,Clogher
+E10038,ED,Dysart
+E10039,ED,Monasterboice
+E10040,ED,Mullary
+E10041,ED,St. Peter's
+E10042,ED,Termonfeckin
+E10047,ED,St. Mary's (Part Urban)
+E11001,ED,Ceannanus Mór (Kells) Urban
+E11002,ED,Navan Urban
+E11003,ED,Trim Urban
+E11004,ED,Drumcondra
+E11005,ED,Grangegeeth
+E11006,ED,Killary
+E11007,ED,Culmullin
+E11008,ED,Donaghmore
+E11009,ED,Dunboyne
+E11010,ED,Dunshaughlin
+E11011,ED,Kilbrew
+E11012,ED,Killeen
+E11013,ED,Kilmessan
+E11014,ED,Kilmore
+E11015,ED,Rathfeigh
+E11016,ED,Ratoath
+E11017,ED,Rodanstown
+E11018,ED,Skreen
+E11019,ED,Ardagh
+E11020,ED,Ballinlough
+E11021,ED,Balrathboyne
+E11022,ED,Boherboy
+E11023,ED,Burry
+E11024,ED,Carrickleck
+E11025,ED,Castlekeeran
+E11026,ED,Ceannanus Mór (Kells) Rural
+E11027,ED,Cruicetown
+E11028,ED,Girley
+E11029,ED,Kilmainham
+E11030,ED,Kilskeer
+E11031,ED,Loughan
+E11032,ED,Maperath
+E11033,ED,Martry
+E11034,ED,Moybolgue
+E11035,ED,Moynalty
+E11036,ED,Newcastle
+E11037,ED,Newtown
+E11038,ED,Nobber
+E11039,ED,Posseckstown
+E11040,ED,Staholmog
+E11041,ED,Tailtin
+E11042,ED,Trohanny
+E11043,ED,Ardcath
+E11044,ED,Duleek
+E11045,ED,Julianstown
+E11046,ED,Mellifont
+E11047,ED,St. Mary's (Part Rural)
+E11048,ED,Stamullin
+E11049,ED,Ardbraccan
+E11050,ED,Ardmulchan
+E11051,ED,Bective
+E11052,ED,Castletown
+E11053,ED,Domhnach Phádraig
+E11054,ED,Kentstown
+E11055,ED,Navan Rural
+E11056,ED,Painestown
+E11057,ED,Rathkenny
+E11058,ED,Slane
+E11059,ED,Stackallan
+E11060,ED,Tara
+E11061,ED,Crossakeel
+E11062,ED,Crosskeys
+E11063,ED,Killallon
+E11064,ED,Killeagh
+E11065,ED,Knocklough
+E11066,ED,Moylagh
+E11067,ED,Oldcastle
+E11068,ED,Stonefield
+E11069,ED,Ardnamullan
+E11070,ED,Baile Átha Buí
+E11071,ED,Ballyboggan
+E11072,ED,Ballyconnell
+E11073,ED,Castlejordan
+E11074,ED,Castlerickard
+E11075,ED,Cloghbrack
+E11076,ED,Clonmacduff
+E11077,ED,Gallow
+E11078,ED,Galtrim
+E11079,ED,Grennanstown
+E11080,ED,Hill of Down
+E11081,ED,Innfield
+E11082,ED,Cill Bhríde
+E11083,ED,Kilcooly
+E11084,ED,Kildalky
+E11085,ED,Killaconnigan
+E11086,ED,Killyon
+E11087,ED,Laracor
+E11088,ED,Rahinstown
+E11089,ED,Rathmolyon
+E11090,ED,An Ráth Mhór
+E11091,ED,Summerhill
+E11092,ED,Trim Rural
+E12001,ED,Birr Urban
+E12002,ED,Tullamore Urban
+E12003,ED,Ballycumber
+E12004,ED,Banagher
+E12005,ED,Birr Rural
+E12006,ED,Broughal
+E12007,ED,Cloghan
+E12008,ED,Clonmacnoise
+E12009,ED,Derrinboy
+E12010,ED,Derryad
+E12011,ED,Doon
+E12012,ED,Dromoyle
+E12013,ED,Drumcullen
+E12014,ED,Eglish
+E12015,ED,Ferbane
+E12016,ED,Gallen
+E12017,ED,Hinds
+E12018,ED,Huntston
+E12019,ED,Kilcolman
+E12020,ED,Kilcormac
+E12021,ED,Killyon
+E12022,ED,Kinnitty
+E12023,ED,Knockbarron
+E12024,ED,Lea
+E12025,ED,Letter
+E12026,ED,Lumcloon
+E12027,ED,Lusmagh
+E12028,ED,Mounterin
+E12029,ED,Moyclare
+E12030,ED,Seirkieran
+E12031,ED,Shannonbridge
+E12032,ED,Shannonharbour
+E12033,ED,Srah
+E12035,ED,Ballyburly
+E12036,ED,Ballymacwilliam
+E12037,ED,Bracknagh
+E12038,ED,Clonbulloge
+E12039,ED,Clonmore
+E12040,ED,Croghan
+E12041,ED,Edenderry Rural
+E12042,ED,Edenderry Urban
+E12043/12034,ED,Esker / Ballaghassaan
+E12044,ED,Knockdrin
+E12045,ED,Monasteroris
+E12046,ED,Aghancon
+E12047,ED,Ballincor
+E12048,ED,Barna
+E12049,ED,Cangort
+E12050,ED,Cullenwaine
+E12051,ED,Dunkerrin
+E12052,ED,Ettagh
+E12053,ED,Gorteen
+E12054,ED,Mountheaton
+E12055,ED,Roscomroe
+E12056,ED,Shinrone
+E12057,ED,Templeharry
+E12058,ED,Tulla
+E12059,ED,Ballycommon
+E12060,ED,Ballyshear
+E12061,ED,Bawn
+E12062,ED,Cappancur
+E12063,ED,Clara
+E12064,ED,Clonygowan
+E12065,ED,Daingean
+E12066,ED,Derrycooley
+E12067,ED,Durrow
+E12068,ED,Geashill
+E12069,ED,Gorteen
+E12070,ED,Hammerlane
+E12071,ED,Kilclonfert
+E12072,ED,Kilcumreragh
+E12073,ED,Killeigh
+E12074,ED,Killooly
+E12075,ED,Killoughy
+E12076,ED,Mountbriscoe
+E12077,ED,O'Dempsey
+E12078,ED,Portarlington North
+E12079,ED,Rahan
+E12080,ED,Raheenakeeran
+E12081,ED,Rathfeston
+E12082,ED,Rathrobin
+E12083,ED,Screggan
+E12084,ED,Silverbrook
+E12085,ED,Tinamuck
+E12086,ED,Tinnycross
+E12087,ED,Tullamore Rural
+E13001,ED,Athlone East Urban
+E13002,ED,Athlone West Urban
+E13003,ED,Athlone East Rural
+E13004,ED,Auburn
+E13005,ED,Ballybroder
+E13006,ED,Bellanalack
+E13007,ED,Carn
+E13008,ED,Castledaly
+E13009,ED,Glassan
+E13010,ED,Kilcumreragh
+E13011,ED,Killinure
+E13012,ED,Moate
+E13013,ED,Mount Temple
+E13014,ED,Moydrum
+E13015,ED,Muckanagh
+E13016,ED,Tubbrit
+E13017,ED,Umma
+E13018,ED,Ardnagragh
+E13019,ED,Ballymore
+E13020,ED,Doonis
+E13021,ED,Drumraney
+E13022,ED,Noughaval
+E13023,ED,Piercetown
+E13024,ED,Templepatrick
+E13025,ED,Winetown
+E13026,ED,Boherquill
+E13027,ED,Coole
+E13028,ED,Coolure
+E13029,ED,Finnea
+E13030,ED,Glore
+E13031,ED,Knockarrow
+E13032,ED,Rathowen
+E13033,ED,Street
+E13034,ED,Ballinlough
+E13035,ED,Ballyhealy
+E13036,ED,Ballynaskeagh
+E13037,ED,Bracklin
+E13038,ED,Clonarney
+E13039,ED,Collinstown
+E13040,ED,Copperalley
+E13041,ED,Delvin
+E13042,ED,Faughalstown
+E13043,ED,Fore East
+E13044,ED,Fore West
+E13045,ED,Hilltown
+E13046,ED,Kilcumny
+E13047,ED,Killua
+E13048,ED,Killulagh
+E13049,ED,Kilpatrick
+E13050,ED,Kinturk
+E13051,ED,Riverdale
+E13052,ED,Rosmead
+E13053,ED,Ardnaglew
+E13054/13085,ED,Ballinalack / Lackan
+E13055,ED,Ballykilmore
+E13056,ED,Ballymorin
+E13057,ED,Ballynagore
+E13058,ED,Belvidere
+E13059,ED,Carrick
+E13060,ED,Castle
+E13061,ED,Castlelost
+E13062,ED,Castletown
+E13063,ED,Churchtown
+E13064,ED,Cloghan
+E13065,ED,Clonfad
+E13066,ED,Clonlost
+E13067,ED,Derrymore
+E13068,ED,Dysart
+E13069,ED,Emper
+E13070,ED,Enniscoffey
+E13071,ED,Gaybrook
+E13072,ED,Glenlough
+E13073,ED,Greenpark
+E13074,ED,Griffinstown
+E13075,ED,Heathstown
+E13076,ED,Hopestown
+E13077,ED,Huntingdon
+E13078,ED,Jamestown
+E13079,ED,Kilbeggan
+E13080,ED,Kilbixy
+E13081,ED,Killare
+E13082,ED,Killucan
+E13083,ED,Kinnegad
+E13084,ED,Knockdrim
+E13086,ED,Lauree
+E13087,ED,Middleton
+E13088,ED,Milltown
+E13089,ED,Mullingar Rural
+E13090,ED,Mullingar North Urban
+E13091,ED,Mullingar South Urban
+E13092,ED,Multyfarnham
+E13093,ED,Newtown
+E13094,ED,Owel
+E13095,ED,Portloman
+E13096,ED,Raharney
+E13097,ED,Rahugh
+E13098,ED,Rathconrath
+E13099,ED,Russellstown
+E13100,ED,Skeagh
+E13101,ED,Sonna
+E13102,ED,Stonehall
+E13103,ED,Streamstown
+E13104,ED,Taghmon
+E13105,ED,Tullaghan
+E13106,ED,Woodland
+E14001,ED,Enniscorthy Urban
+E14002,ED,New Ross Urban
+E14003,ED,Rosbercon Urban
+E14004,ED,Wexford No. 1 Urban
+E14005,ED,Wexford No. 2 Urban
+E14006,ED,Wexford No. 3 Urban
+E14007,ED,Ballindaggan
+E14008,ED,Ballycarney
+E14009,ED,Ballyhoge
+E14010,ED,Ballyhuskard
+E14011,ED,Ballymore
+E14012,ED,Ballyvaldon
+E14013,ED,Bolaboy
+E14014,ED,Bree
+E14015,ED,Castleboro
+E14016,ED,Castledockrell
+E14017,ED,Castle Ellis
+E14018,ED,Castle Talbot
+E14019,ED,Clonroche
+E14020,ED,Edermine
+E14021,ED,Enniscorthy Rural
+E14022,ED,Ferns
+E14023,ED,Kilbora
+E14024,ED,Kilcormick
+E14025,ED,Killann
+E14026,ED,Kilmallock
+E14027,ED,Killoughrum
+E14028,ED,Kilrush
+E14029,ED,Kiltealy
+E14030,ED,Marshalstown
+E14031,ED,Moyacomb
+E14032,ED,Newtownbarry
+E14033,ED,Rossard
+E14034,ED,St. Mary's
+E14035,ED,The Harrow
+E14036,ED,The Leap
+E14037,ED,Tinnacross
+E14038,ED,Tombrack
+E14039,ED,Ardamine
+E14040,ED,Balloughter
+E14041,ED,Ballybeg
+E14042,ED,Ballycanew
+E14043,ED,Ballyellis
+E14044,ED,Ballygarrett
+E14045,ED,Ballylarkin
+E14046,ED,Ballynestragh
+E14047,ED,Cahore
+E14048,ED,Coolgreany
+E14049,ED,Courtown
+E14050,ED,Ford
+E14051,ED,Gorey Rural
+E14052,ED,Gorey Urban
+E14053,ED,Huntingtown
+E14054,ED,Kilcomb
+E14055,ED,Kilgorman
+E14056,ED,Killenagh
+E14057,ED,Killincooly
+E14058,ED,Kilnahue
+E14059,ED,Limerick
+E14060,ED,Monamolin
+E14061,ED,Monaseed
+E14062,ED,Rossminoge
+E14063,ED,Wells
+E14064,ED,Wingfield
+E14065,ED,Adamstown
+E14066,ED,Ballyanne
+E14067,ED,Ballyhack
+E14068,ED,Barrack Village
+E14069,ED,Barronstown
+E14070,ED,Carnagh
+E14071,ED,Carrickbyrne
+E14072,ED,Clongeen
+E14073,ED,Clonleigh
+E14074,ED,Dunmain
+E14075,ED,Fethard
+E14076,ED,Horetown
+E14077,ED,Inch
+E14078,ED,Kilgarvan
+E14079,ED,Killesk
+E14080,ED,Kilmokea
+E14081,ED,Newbawn
+E14082,ED,New Ross Rural
+E14083,ED,Oldcourt
+E14084,ED,Old Ross
+E14085,ED,Rathroe
+E14086,ED,Rochestown
+E14087,ED,Templeludigan
+E14088,ED,Templetown
+E14089,ED,Tintern
+E14090,ED,Whitechurch
+E14091,ED,Whitemoor
+E14092,ED,Ardcavan
+E14093,ED,Ardcolm
+E14094,ED,Artramon
+E14095,ED,Aughwilliam
+E14096,ED,Ballymitty
+E14097,ED,Bannow
+E14098,ED,Bridgetown
+E14099,ED,Carrick
+E14100,ED,Drinagh
+E14101,ED,Duncormick
+E14102,ED,Forth
+E14103,ED,Glynn
+E14104,ED,Harperstown
+E14105,ED,Harristown
+E14106,ED,Kilbride
+E14107,ED,Kilcowan
+E14108,ED,Killag
+E14109,ED,Killinick
+E14110,ED,Killurin
+E14111,ED,Kilmore
+E14112,ED,Kilpatrick
+E14113,ED,Kilscoran
+E14114,ED,Lady's Island
+E14115,ED,Mayglass
+E14116,ED,Newcastle
+E14117,ED,Rathaspick
+E14118,ED,Rosslare
+E14119,ED,St. Helen's
+E14120,ED,Tacumshin
+E14121,ED,Taghmon
+E14122,ED,Tomhaggard
+E14123,ED,Wexford Rural
+E14124,ED,Whitechurch
+E15001,ED,Arklow No. 1 Urban
+E15002,ED,Arklow No. 2 Urban
+E15003,ED,Bray No. 1
+E15004,ED,Bray No. 2
+E15005,ED,Bray No. 3
+E15006,ED,Rathmichael (Bray)
+E15007,ED,Wicklow Urban
+E15008,ED,Ballinguile
+E15009,ED,Baltinglass
+E15010,ED,Blessington
+E15011,ED,Burgage
+E15012,ED,Donaghmore
+E15013,ED,Donard
+E15014,ED,Dunlavin
+E15015,ED,Eadestown
+E15016,ED,Hartstown
+E15017,ED,Hollywood
+E15018,ED,Humewood
+E15019,ED,Imael North
+E15020,ED,Imael South
+E15021,ED,Kilbride
+E15022,ED,Lackan
+E15023,ED,Lugglass
+E15024,ED,Rathdangan
+E15025,ED,Rathsallagh
+E15026,ED,Stratford
+E15027,ED,Talbotstown
+E15028,ED,The Grange
+E15029,ED,Tober
+E15030,ED,Togher
+E15031,ED,Tuckmill
+E15032,ED,Delgany
+E15033,ED,Enniskerry
+E15034,ED,Greystones
+E15035,ED,Kilmacanoge
+E15036,ED,Powerscourt
+E15037,ED,Altidore
+E15038,ED,Arklow Rural
+E15039,ED,Aughrim
+E15040,ED,Avoca
+E15041,ED,Ballinaclash
+E15042,ED,Ballinacor
+E15043,ED,Ballinderry
+E15044,ED,Ballyarthur
+E15045,ED,Ballycullen
+E15046,ED,Brockagh
+E15047,ED,Calary
+E15048,ED,Cronebane
+E15049,ED,Dunganstown East
+E15050,ED,Dunganstown South
+E15051,ED,Dunganstown West
+E15052,ED,Ennereilly
+E15053,ED,Glendalough
+E15054,ED,Glenealy
+E15055,ED,Kilbride
+E15056,ED,Kilcoole
+E15057,ED,Killiskey
+E15058,ED,Knockrath
+E15059,ED,Moneystown
+E15060,ED,Newcastle Lower
+E15061,ED,Newcastle Upper
+E15062,ED,Oldtown
+E15063,ED,Rathdrum
+E15064,ED,Togher
+E15065,ED,Trooperstown
+E15066,ED,Wicklow Rural
+E15067,ED,Aghowle
+E15068,ED,Ballingate
+E15069,ED,Ballinglen
+E15070,ED,Ballybeg
+E15071,ED,Carnew
+E15072,ED,Coolattin
+E15073,ED,Coolballintaggart
+E15074,ED,Coolboy
+E15075,ED,Cronelea
+E15076,ED,Kilballyowen
+E15077,ED,Killinure
+E15078,ED,Kilpipe
+E15079,ED,Money
+E15080,ED,Rath
+E15081,ED,Shillelagh
+E15082,ED,Tinahely
+E16001,ED,Ennis No. 1 Urban
+E16002,ED,Ennis No. 2 Urban
+E16003,ED,Ennis No. 3 Urban
+E16004,ED,Ennis No. 4 Urban
+E16005,ED,Kilrush Urban
+E16006,ED,Abbey
+E16007,ED,Carran
+E16009,ED,Derreen
+E16010,ED,Drumcreehy
+E16011,ED,Gleninagh
+E16012,ED,Lisdoonvarna
+E16013,ED,Mountelva
+E16014/16008,ED,Noughaval / Castletown
+E16015,ED,Oughtmama
+E16016,ED,Rathborney
+E16018,ED,Boston
+E16019,ED,Corrofin
+E16020/16017,ED,Glenroe / Ballyeighter
+E16021,ED,Killinaboy
+E16022,ED,Kiltoraght
+E16023,ED,Muckanagh
+E16024,ED,Rath
+E16025,ED,Ruan
+E16026,ED,Clareabbey
+E16027,ED,Clenagh
+E16028,ED,Crusheen
+E16029,ED,Doora
+E16030,ED,Drumline
+E16031,ED,Dysert
+E16032,ED,Ennis Rural
+E16033,ED,Furroor
+E16034,ED,Kilcloher
+E16035,ED,Killanniv
+E16036,ED,Killone
+E16037,ED,Kilnamona
+E16038,ED,Kilraghtis
+E16039,ED,Kinturk
+E16040,ED,Newmarket
+E16041,ED,Sixmilebridge
+E16042,ED,Spancelhill
+E16043,ED,Templemaley
+E16044,ED,Tomfinlough
+E16045,ED,Urlan
+E16046,ED,Annagh
+E16047,ED,Ballagh
+E16048,ED,Ballyea
+E16049,ED,Ballysteen
+E16050,ED,Ballyvaskin
+E16051,ED,Cloghaun
+E16052,ED,Cloonanaha
+E16053,ED,Clooney
+E16054,ED,Ennistimon
+E16055,ED,Formoyle
+E16056,ED,Kilfenora
+E16057,ED,Killaspuglonane
+E16058,ED,Killilagh
+E16059,ED,Kilshanny
+E16060,ED,Liscannor
+E16061,ED,Lurraga
+E16062,ED,Magherareagh
+E16063,ED,Milltown Malbay
+E16064,ED,Moy
+E16065,ED,Smithstown
+E16066,ED,Ballynacally
+E16067,ED,Clondagad
+E16068,ED,Coolmeen
+E16069,ED,Kilchreest
+E16070,ED,Kilfiddane
+E16071,ED,Killadysert
+E16072,ED,Killofin
+E16073,ED,Kilmurry
+E16074,ED,Liscasey
+E16075,ED,Lisheen
+E16076,ED,Rinealon
+E16077,ED,Cahermurphy
+E16078,ED,Cloonadrum
+E16079,ED,Clooncoorha
+E16080,ED,Cooraclare
+E16081,ED,Creegh
+E16082,ED,Doonbeg
+E16083,ED,Drumellihy
+E16084,ED,Einagh
+E16085,ED,Glenmore
+E16086,ED,Kilballyowen
+E16087,ED,Kilfearagh
+E16088,ED,Kilkee
+E16089,ED,Killard
+E16090,ED,Killimer
+E16091,ED,Kilmihil
+E16092,ED,Kilmurry
+E16093,ED,Kilrush Rural
+E16094,ED,Knock
+E16095,ED,Knocknaboley
+E16096,ED,Knocknagore
+E16097,ED,Moveen
+E16098,ED,Moyarta
+E16099,ED,Mullagh
+E16100,ED,Querrin
+E16101,ED,Rahona
+E16102,ED,St. Martin's
+E16103,ED,Tullig
+E16104,ED,Tullycreen
+E16105,ED,Ballycannan
+E16106,ED,Ballyglass
+E16107,ED,Cappavilla
+E16108,ED,Castlecrine
+E16109,ED,Cloghera
+E16110,ED,Cloontra
+E16111,ED,Cratloe
+E16112,ED,Fahymore
+E16113,ED,Killeely
+E16114,ED,Killokennedy
+E16115,ED,Kilseily
+E16116,ED,Kiltenanlea
+E16117,ED,Lackareagh
+E16118,ED,Mountievers
+E16119,ED,O'Briensbridge
+E16120,ED,Ayle
+E16121,ED,Boherglass
+E16122,ED,Caherhurley
+E16124,ED,Cappaghabaun
+E16125,ED,Carrowbaun
+E16126,ED,Cloonusker
+E16127,ED,Coolreagh
+E16128/16123,ED,Corlea / Cahermurphy
+E16129,ED,Derrynagittagh
+E16130,ED,Drummaan
+E16131,ED,Feakle
+E16132/16133,ED,Inishcaltra North / Inishcaltra South
+E16134,ED,Killaloe
+E16135,ED,Mountshannon
+E16136,ED,Ogonnelloe
+E16137,ED,Scarriff
+E16138,ED,Ballyblood
+E16139,ED,Ballynahinch
+E16140,ED,Caher
+E16141,ED,Clooney
+E16142,ED,Dangan
+E16143,ED,Glendree
+E16144,ED,Kilkishen
+E16145,ED,Killanena
+E16146,ED,Killuran
+E16147,ED,Kiltannon
+E16148,ED,Kyle
+E16149,ED,Loughea
+E16150,ED,Newgrove
+E16151,ED,Quin
+E16152,ED,Rathclooney
+E16153,ED,Rossroe
+E16154,ED,Toberbreeda
+E16155,ED,Tulla
+E17001,ED,Ballinlough A
+E17002,ED,Ballinlough B
+E17003,ED,Ballinlough C
+E17004,ED,Ballyphehane A
+E17005,ED,Ballyphehane B
+E17006,ED,Bishopstown A
+E17007,ED,Bishopstown B
+E17008,ED,Bishopstown C
+E17009,ED,Bishopstown D
+E17010,ED,Bishopstown E
+E17011,ED,Blackpool A
+E17012,ED,Blackpool B
+E17013,ED,Browningstown
+E17014,ED,Centre A
+E17015,ED,Centre B
+E17016,ED,Churchfield
+E17017,ED,City Hall A
+E17018,ED,City Hall B
+E17019,ED,Commons
+E17020,ED,Evergreen
+E17021,ED,Fair Hill A
+E17022,ED,Fair Hill B
+E17023,ED,Fair Hill C
+E17024,ED,Farranferris A
+E17025,ED,Farranferris B
+E17026,ED,Farranferris C
+E17027,ED,Gillabbey A
+E17028,ED,Gillabbey B
+E17029,ED,Gillabbey C
+E17030,ED,Glasheen A
+E17031,ED,Glasheen B
+E17032,ED,Glasheen C
+E17033,ED,Greenmount
+E17034,ED,Gurranebraher A
+E17035,ED,Gurranebraher B
+E17036,ED,Gurranebraher C
+E17037,ED,Gurranebraher D
+E17038,ED,Gurranebraher E
+E17039,ED,Knocknaheeny
+E17040,ED,Knockrea A
+E17041,ED,Knockrea B
+E17042,ED,Mahon A
+E17043,ED,Mahon B
+E17044,ED,Mahon C
+E17045,ED,Mardyke
+E17046,ED,Mayfield
+E17047,ED,Montenotte A
+E17048,ED,Montenotte B
+E17049,ED,Pouladuff A
+E17050,ED,Pouladuff B
+E17051,ED,St. Patrick's A
+E17052,ED,St. Patrick's B
+E17053,ED,St. Patrick's C
+E17054,ED,Shanakiel
+E17055,ED,Shandon A
+E17056,ED,Shandon B
+E17057,ED,South Gate A
+E17058,ED,South Gate B
+E17059,ED,Sundays Well A
+E17060,ED,Sundays Well B
+E17061,ED,The Glen A
+E17062,ED,The Glen B
+E17063,ED,The Lough
+E17064,ED,Tivoli A
+E17065,ED,Tivoli B
+E17066,ED,Togher A
+E17067,ED,Togher B
+E17068,ED,Tramore A
+E17069,ED,Tramore B
+E17070,ED,Tramore C
+E17071,ED,Turners Cross A
+E17072,ED,Turners Cross B
+E17073,ED,Turners Cross C
+E17074,ED,Turners Cross D
+E18001,ED,Clonakilty Urban
+E18002,ED,Cobh Urban
+E18003,ED,Fermoy Urban
+E18004,ED,Kinsale Urban
+E18005,ED,Macroom Urban
+E18006,ED,Mallow North Urban
+E18007,ED,Mallow South Urban
+E18008,ED,Midleton Urban
+E18009,ED,Skibbereen Urban
+E18010,ED,Youghal Urban
+E18011,ED,Ballinadee
+E18012,ED,Ballygroman
+E18013,ED,Ballymodan
+E18014,ED,Ballymurphy
+E18015,ED,Bandon
+E18016,ED,Baurleigh
+E18017,ED,Bengour
+E18018,ED,Boulteen
+E18019,ED,Brinny
+E18020,ED,Cashel
+E18021,ED,Inishannon
+E18022,ED,Kilbonane
+E18023,ED,Kilbrittain
+E18024,ED,Kilbrogan
+E18025,ED,Knockavilly
+E18026,ED,Knockroe
+E18027,ED,Moviddy
+E18028,ED,Murragh
+E18029,ED,Rathclarin
+E18030,ED,Teadies
+E18031,ED,Templemartin
+E18032,ED,Ahil
+E18033/18046,ED,Bantry Rural / Whiddy
+E18034,ED,Bantry Urban
+E18035,ED,Douce
+E18036,ED,Durrus East
+E18037,ED,Durrus West
+E18038,ED,Glanlough
+E18039,ED,Glengarriff
+E18040,ED,Kealkill
+E18041,ED,Kilcaskan
+E18042,ED,Mealagh
+E18043,ED,Scart
+E18044,ED,Seefin
+E18045,ED,Sheepshead
+E18047,ED,Adrigole
+E18048,ED,Bear
+E18049,ED,Coulagh
+E18050,ED,Curryglass
+E18051,ED,Kilcatherine
+E18052,ED,Killaconenagh
+E18053,ED,Kilnamanagh
+E18054,ED,Abbeymahon
+E18055,ED,Ardfield
+E18056,ED,Argideen
+E18057,ED,Butlerstown
+E18058,ED,Cahermore
+E18059,ED,Castleventry
+E18060,ED,Clonakilty Rural
+E18061,ED,Coolcraheen
+E18062,ED,Courtmacsherry
+E18063,ED,Derry
+E18064,ED,Kilkerranmore
+E18065,ED,Kilmaloda East
+E18066,ED,Kilmaloda West
+E18067,ED,Kilmoylerane
+E18068,ED,Kilnagross
+E18069,ED,Knocks
+E18070,ED,Rathbarry
+E18071,ED,Rosscarbery
+E18072,ED,Rossmore
+E18073,ED,Templeomalus
+E18074,ED,Timoleague
+E18075,ED,Ballincollig
+E18076,ED,Ballygarvan
+E18077,ED,Ballynaglogh
+E18078,ED,Bishopstown (Part Rural)
+E18079,ED,Blackpool
+E18080,ED,Blarney
+E18081,ED,Caherlag
+E18082,ED,Carrigaline
+E18083,ED,Carrignavar
+E18084,ED,Carrigrohane Beg
+E18085,ED,Cobh Rural
+E18086,ED,Douglas
+E18087,ED,Dripsey
+E18088,ED,Dunderrow
+E18089,ED,Firmount
+E18090,ED,Glenville
+E18091,ED,Greenfort
+E18092,ED,Inishkenny
+E18093,ED,Killeagh
+E18094,ED,Knockantota
+E18095,ED,Knockraha
+E18096,ED,Lehenagh
+E18097,ED,Matehy
+E18098,ED,Monkstown Rural
+E18099,ED,Monkstown Urban
+E18100,ED,Ovens
+E18101,ED,Rathcooney (Part Rural)
+E18102,ED,Riverstown
+E18103,ED,St. Mary's (Part Rural)
+E18104,ED,Whitechurch
+E18105,ED,Aultagh
+E18106,ED,Ballingurteen
+E18107,ED,Ballymoney
+E18108,ED,Béal Átha an Ghaorthaidh
+E18109,ED,Bealock
+E18110,ED,Carrigboy
+E18111,ED,Castletown
+E18112,ED,Coolmountain
+E18113,ED,Drinagh
+E18114,ED,Dunmanway North
+E18115,ED,Dunmanway South
+E18116,ED,Garrown
+E18117,ED,Kinneigh
+E18118,ED,Manch
+E18119,ED,Milane
+E18120,ED,Teerelton
+E18121,ED,Aghern
+E18122,ED,Ballyhooly
+E18123,ED,Ballynoe
+E18124,ED,Carrig
+E18125,ED,Castlecooke
+E18126,ED,Castle Hyde
+E18127,ED,Castlelyons
+E18128,ED,Castletownroche
+E18129,ED,Coole
+E18130,ED,Curraglass
+E18131,ED,Fermoy Rural
+E18132,ED,Glanworth East
+E18133,ED,Glanworth West
+E18134,ED,Gortnaskehy
+E18135,ED,Gortroe
+E18136,ED,Kilcor
+E18137,ED,Kilcummer
+E18138,ED,Kildinan
+E18139,ED,Killathy
+E18140,ED,Kilworth
+E18141,ED,Knockmourne
+E18142,ED,Leitrim
+E18143,ED,Rathcormack
+E18144,ED,Watergrasshill
+E18145,ED,Allow
+E18146,ED,Ballyhoolahan
+E18147,ED,Banteer
+E18148,ED,Barleyhill
+E18149,ED,Barnacurra
+E18150,ED,Bawncross
+E18151,ED,Boherboy
+E18152,ED,Castlecor
+E18153,ED,Castlemagner
+E18154,ED,Clonfert East
+E18155,ED,Clonfert West
+E18156,ED,Clonmeen
+E18157,ED,Coolclogh
+E18158,ED,Dromina
+E18159,ED,Glenlara
+E18160,ED,Gortmore
+E18161,ED,Greenane
+E18162,ED,Kanturk
+E18163,ED,Kilbrin
+E18164,ED,Kilmeen
+E18165,ED,Knockatooan
+E18166,ED,Knocktemple
+E18167,ED,Meens
+E18168,ED,Milford
+E18169,ED,Nad
+E18170,ED,Newmarket
+E18171,ED,Newtown
+E18172,ED,Roskeen
+E18173,ED,Rosnalee
+E18174,ED,Rowls
+E18175,ED,Tincoora
+E18176,ED,Tullylease
+E18177,ED,Williamstown
+E18178,ED,Ballinspittle
+E18179,ED,Ballyfeard
+E18180,ED,Ballyfoyle
+E18181,ED,Ballymackean
+E18182,ED,Ballymartle
+E18183,ED,Carrigaline
+E18184,ED,Coolmain
+E18185,ED,Cullen
+E18186,ED,Farranbrien
+E18187,ED,Kilmonoge
+E18188,ED,Kilpatrick
+E18189,ED,Kinsale Rural
+E18190,ED,Kinure
+E18191,ED,Laherne
+E18192,ED,Leighmoney
+E18193,ED,Liscleary
+E18194,ED,Nohaval
+E18195,ED,Templebreedy
+E18196,ED,Templemichael
+E18197,ED,Aghinagh
+E18198,ED,Aglish
+E18199,ED,Béal Átha an Ghaorthaidh (Bealanageary)
+E18200,ED,Ceann Droma
+E18201,ED,Cannaway
+E18202,ED,Claonráth
+E18203,ED,Clondrohid
+E18204,ED,Clonmoyle
+E18205,ED,Doire Fhínín
+E18206,ED,Gort na Tiobratan
+E18207,ED,Gowlane
+E18208,ED,Greenville
+E18209,ED,Inchigeelagh
+E18210,ED,Kilberrihert
+E18211,ED,Kilcullen
+E18212,ED,Cill na Martra
+E18213,ED,Macloneigh
+E18214,ED,Magourney
+E18215,ED,Mashanaglass
+E18216,ED,Mountrivers
+E18217,ED,Rahalisk
+E18218,ED,An Sliabh Riabhach
+E18219,ED,Na hUláin
+E18220,ED,Warrenscourt
+E18221,ED,Ardskeagh
+E18222,ED,Ballyclogh
+E18223,ED,Ballynamona
+E18224,ED,Buttevant
+E18225,ED,Caherduggan
+E18226,ED,Carrig
+E18227,ED,Churchtown
+E18228,ED,Clenor
+E18229,ED,Doneraile
+E18230,ED,Dromore
+E18231,ED,Imphrick
+E18232,ED,Kilmaclenine
+E18233,ED,Kilshannig
+E18234,ED,Liscarroll
+E18235,ED,Mallow Rural
+E18236,ED,Milltown
+E18237,ED,Monanimy
+E18238,ED,Rahan
+E18239,ED,Rathluirc
+E18240,ED,Shanballymore
+E18241,ED,Skahanagh
+E18242,ED,Springfort
+E18243,ED,Streamhill
+E18244,ED,Templemary
+E18245,ED,Wallstown
+E18246,ED,Ballintemple
+E18247,ED,Ballycottin
+E18248,ED,Ballyspillane
+E18249,ED,Carrigtohill
+E18250,ED,Castlemartyr
+E18251,ED,Clonmult
+E18252,ED,Cloyne
+E18253,ED,Corkbeg
+E18254,ED,Dangan
+E18255,ED,Dungourney
+E18256,ED,Garryvoe
+E18257,ED,Ightermurragh
+E18258,ED,Inch
+E18259,ED,Lisgoold
+E18260,ED,Midleton Rural
+E18261,ED,Mogeely
+E18262,ED,Rostellan
+E18263,ED,Templebodan
+E18264,ED,Templenacarriga
+E18265,ED,Caherbarnagh
+E18266,ED,Coomlogane
+E18267,ED,Crinnaloo
+E18268,ED,Cullen
+E18269,ED,Derragh
+E18270,ED,Doonasleen
+E18271,ED,Drishane
+E18272,ED,Keale
+E18273,ED,Kilcorney
+E18274,ED,Knocknagree
+E18275,ED,Rathcool
+E18276,ED,Skagh
+E18277,ED,Ballyarthur
+E18278,ED,Derryvillane
+E18279,ED,Farahy
+E18280,ED,Kildorrery
+E18281,ED,Kilgullane
+E18282,ED,Kilphelan
+E18283,ED,Marshalstown
+E18284,ED,Mitchelstown
+E18285,ED,Templemolaga
+E18286,ED,Aghadown North
+E18287,ED,Aghadown South
+E18288,ED,Bredagh
+E18289,ED,Caheragh
+E18290,ED,Cléire
+E18291,ED,Carrigbaun
+E18292,ED,Castlehaven North
+E18293,ED,Castlehaven South
+E18294,ED,Cloghdonnell
+E18295,ED,Cloonkeen
+E18296,ED,Drinagh
+E18297,ED,Dromdaleague North
+E18298,ED,Dromdaleague South
+E18299,ED,Garranes
+E18300,ED,Gortnascreeny
+E18301,ED,Kilfaughnabeg
+E18302,ED,Killeenleagh
+E18303,ED,Knockskagh
+E18304,ED,Myross
+E18305,ED,Shreelane
+E18306,ED,Skibbereen Rural
+E18307,ED,Tullagh
+E18308,ED,Woodfort
+E18309,ED,Ballybane
+E18310,ED,Ballydehob
+E18311,ED,Coolagh
+E18312,ED,Crookhaven
+E18313,ED,Dunbeacon
+E18314,ED,Dunmanus
+E18315,ED,Goleen
+E18316,ED,Kilcoe
+E18317,ED,Lowertown
+E18318,ED,Skull
+E18319,ED,Toormore
+E18320,ED,Ardagh
+E18321,ED,Clonpriest
+E18322,ED,Kilcronat
+E18323,ED,Killeagh
+E18324,ED,Kilmacdonogh
+E18325,ED,Youghal Rural
+E19001,ED,Killarney Urban
+E19002,ED,Listowel Urban
+E19003,ED,Tralee Urban
+E19004,ED,Na Beathacha
+E19005,ED,Baile an Sceilg
+E19006,ED,An Baile Breac
+E19007,ED,Caher
+E19008,ED,Cathair Dónall
+E19009/19020,ED,Ceannúigh / Máistir Gaoithe
+E19010,ED,Castlequin
+E19012,ED,Curraghbeg
+E19013,ED,Doire Fhíonáin
+E19014/19011,ED,Doire Ianna / Cloon
+E19015,ED,An tImleach
+E19016,ED,Glanbehy
+E19017,ED,Killinane
+E19018,ED,Lickeen
+E19019,ED,Loch Luíoch
+E19021,ED,Maum
+E19022,ED,Portmagee
+E19023,ED,Toghroinn Fhíonáin
+E19024,ED,Teeranearagh
+E19025,ED,Valencia
+E19026,ED,Ballinvoher
+E19027,ED,An Baile Dubh
+E19028,ED,Ballynacourty
+E19029,ED,Cé Bhréanainn
+E19030,ED,Castlegregory
+E19031,ED,An Clochán
+E19032,ED,Deelis
+E19033,ED,An Daingean
+E19034,ED,Dún Chaoin
+E19035,ED,Dún Urlann
+E19036,ED,Na Gleannta
+E19037,ED,Inch
+E19038,ED,Cill Maoilchéadair
+E19039,ED,Cill Chuáin
+E19040,ED,Cinn Aird
+E19041,ED,Lack
+E19042,ED,Márthain
+E19043,ED,An Mhin Aird
+E19044,ED,An Sráidbhaile
+E19045,ED,Ceann Trá
+E19046,ED,Ardea
+E19047,ED,Banawn
+E19048,ED,Cappagh
+E19049,ED,Castlecove
+E19050,ED,Dawros
+E19051,ED,Dromore
+E19052,ED,Glanlee
+E19053,ED,Glanlough
+E19054,ED,Glanmore
+E19055,ED,Greenane
+E19056,ED,Kenmare
+E19057,ED,Kilgarvan
+E19058,ED,Loughbrin
+E19059,ED,Reen
+E19060,ED,Sneem
+E19061,ED,Tahilla
+E19062,ED,Aghadoe
+E19063,ED,Aglish
+E19064,ED,Ballyhar
+E19065,ED,Brewsterfield
+E19066,ED,Caragh
+E19067,ED,Churchtown
+E19068,ED,Clydagh
+E19069,ED,Coolies
+E19070,ED,Coom
+E19071,ED,Curraghmore
+E19072,ED,Currans
+E19073,ED,Doocarrig
+E19074,ED,Dromin
+E19075,ED,Dunloe
+E19076,ED,Flesk
+E19077,ED,Headfort
+E19078,ED,Kilbonane
+E19079,ED,Kilcummin
+E19080,ED,Kilfelim
+E19081,ED,Kilgobnet
+E19082,ED,Killarney Rural
+E19083,ED,Killeentierna
+E19084,ED,Killorglin
+E19085,ED,Kilnanare
+E19086,ED,Knocknahoe
+E19087,ED,Lahard
+E19088,ED,Milltown
+E19089,ED,Molahiffe
+E19090,ED,Muckross
+E19091,ED,Rathmore
+E19092,ED,Rockfield
+E19093,ED,Ardagh
+E19094,ED,Astee
+E19095,ED,Ballincloher
+E19096,ED,Ballyconry
+E19097,ED,Ballyduff
+E19098,ED,Ballyegan
+E19099,ED,Ballyhorgan
+E19100,ED,Beal
+E19101,ED,Carrig
+E19102,ED,Causeway
+E19103,ED,Cloontubbrid
+E19104,ED,Drommartin
+E19105,ED,Duagh
+E19106,ED,Ennismore
+E19107,ED,Gullane
+E19108,ED,Gunsborough
+E19109,ED,Kilfeighny
+E19110,ED,Killehenny
+E19111,ED,Killury
+E19112,ED,Kilmeany
+E19113,ED,Kilshenane
+E19114,ED,Kiltomy
+E19115,ED,Leitrim
+E19116,ED,Lislaughtin
+E19117,ED,Lisselton
+E19118,ED,Listowel Rural
+E19119,ED,Lixnaw
+E19120,ED,Moynsha
+E19121,ED,Newtownsandes
+E19122,ED,Rathea
+E19123,ED,Shronowen
+E19124,ED,Tarbert
+E19125,ED,Tarmon
+E19126,ED,Trienearagh
+E19127,ED,Urlee
+E19128,ED,Abbeydorney
+E19129,ED,Arabela
+E19130,ED,Ardfert
+E19131,ED,Ballyegan
+E19132,ED,Ballyheige
+E19133,ED,Ballynahaglish
+E19134,ED,Ballynorig
+E19135,ED,Ballyseedy
+E19136,ED,Banna
+E19137,ED,Baurtregaum
+E19138,ED,Blennerville
+E19139,ED,Boolteens
+E19140,ED,Brosna
+E19141,ED,Carker
+E19142,ED,Castleisland
+E19143,ED,Clogherbrien
+E19144,ED,Cordal
+E19145,ED,Crinny
+E19146,ED,Derreen
+E19147,ED,Doon
+E19148,ED,Gneeves
+E19149,ED,Kerryhead
+E19150,ED,Kilflyn
+E19151,ED,Kilgarrylander
+E19152,ED,Kilgobban
+E19153,ED,Killahan
+E19154,ED,Kilmurry
+E19155,ED,Kiltallagh
+E19156,ED,Knockglass
+E19157,ED,Knocknagashel
+E19158,ED,Lackabaun
+E19159,ED,Millbrook
+E19160,ED,Mount Eagle
+E19161,ED,Nohaval
+E19162,ED,O'Brennan
+E19163,ED,Ratass
+E19164,ED,Scartaglin
+E19165,ED,Tralee Rural
+E19166,ED,Tubrid
+E20001,ED,Abbey A
+E20002,ED,Abbey B
+E20003,ED,Abbey C
+E20004,ED,Abbey D
+E20005,ED,Ballinacurra A
+E20006,ED,Ballinacurra B
+E20007,ED,Ballynanty
+E20008,ED,Castle A
+E20009,ED,Castle B
+E20010,ED,Castle C
+E20011,ED,Castle D
+E20012,ED,Coolraine
+E20013,ED,Custom House
+E20014,ED,Dock A
+E20015,ED,Dock B
+E20016,ED,Dock C
+E20017,ED,Dock D
+E20018,ED,Farranshone
+E20019,ED,Galvone A
+E20020,ED,Galvone B
+E20021,ED,Glentworth A
+E20022,ED,Glentworth B
+E20023,ED,Glentworth C
+E20024,ED,John's A
+E20025,ED,John's B
+E20026,ED,John's C
+E20027,ED,Killeely A
+E20028,ED,Killeely B
+E20029,ED,Market
+E20030,ED,Prospect A
+E20031,ED,Prospect B
+E20032,ED,Rathbane
+E20033,ED,St. Laurence
+E20034,ED,Shannon A
+E20035,ED,Shannon B
+E20036,ED,Singland A
+E20037,ED,Singland B
+E20065,ED,Limerick North Rural
+E21001,ED,Abbeyville
+E21002,ED,Adare North
+E21003,ED,Adare South
+E21004,ED,Ballingarry
+E21005,ED,Ballyagran
+E21006,ED,Ballygrennan
+E21007,ED,Ballynabanoge
+E21008,ED,Ballynoe
+E21009,ED,Castletown
+E21010,ED,Coolrus
+E21011,ED,Crean
+E21012,ED,Crecora
+E21013,ED,Croom
+E21014,ED,Dunnaman
+E21015,ED,Fedamore
+E21016,ED,Garrane
+E21017,ED,Grange
+E21018,ED,Kilfinny
+E21019,ED,Kilpeacon
+E21020,ED,Rathmore
+E21021,ED,Fleanmore
+E21022,ED,Glin
+E21023,ED,Kilfergus
+E21024,ED,Kilmoylan
+E21025,ED,Ardpatrick
+E21026,ED,Athlacca
+E21027,ED,Ballymacshaneboy
+E21028,ED,Bruff
+E21029,ED,Bruree
+E21030,ED,Bulgaden
+E21031,ED,Cahercorney
+E21032,ED,Colmanswell
+E21033,ED,Darragh
+E21034,ED,Dromin
+E21035,ED,Emlygrennan
+E21036,ED,Glenbrohane
+E21037,ED,Griston
+E21038,ED,Hospital
+E21039,ED,Kilfinnane
+E21040,ED,Kilflyn
+E21041,ED,Kilmallock
+E21042,ED,Kilteely
+E21043,ED,Knockainy
+E21044,ED,Knocklong
+E21045,ED,Particles
+E21046,ED,Rockhill
+E21047,ED,Tobernea
+E21048,ED,Uregare
+E21049,ED,Abington
+E21050,ED,Ballybricken
+E21051,ED,Ballycummin
+E21052,ED,Ballysimon
+E21053,ED,Ballyvarra
+E21054,ED,Caherconlish East
+E21055,ED,Caherconlish West
+E21056,ED,Caherelly
+E21057,ED,Cappamore
+E21058,ED,Carrig
+E21059,ED,Castleconnell
+E21060,ED,Clarina
+E21061,ED,Clonkeen
+E21062,ED,Doon West
+E21063,ED,Glenstal
+E21064,ED,Kilmurry
+E21066,ED,Limerick South Rural
+E21067,ED,Patrickswell
+E21068,ED,Roxborough
+E21069,ED,Anglesborough
+E21070,ED,Ballylanders
+E21071,ED,Cullane
+E21072,ED,Duntryleague
+E21073,ED,Galbally
+E21074,ED,Kilbeheny
+E21075,ED,Kilglass
+E21076,ED,Knocknascrow
+E21077,ED,Riversdale
+E21078,ED,Abbeyfeale
+E21079,ED,Ardagh
+E21080,ED,Ballintober
+E21081,ED,Ballynoe West
+E21082,ED,Boola
+E21083,ED,Broadford
+E21084,ED,Caher
+E21085,ED,Cleanglass
+E21086,ED,Cloncagh
+E21087,ED,Danganbeg
+E21088,ED,Dromcolliher
+E21089,ED,Dromtrasna
+E21090,ED,Feenagh
+E21091,ED,Garryduff
+E21092,ED,Glenagower
+E21093,ED,Glengort
+E21094,ED,Glensharrold
+E21095,ED,Kilmeedy
+E21096,ED,Knockaderry
+E21097,ED,Mahoonagh
+E21098,ED,Monagay
+E21099,ED,Mountcollins
+E21100,ED,Mountplummer
+E21101,ED,Newcastle Rural
+E21102,ED,Newcastle Urban
+E21103,ED,Port
+E21104,ED,Rathronan
+E21105,ED,Rooskagh
+E21106,ED,Templeglentan
+E21107,ED,Askeaton East
+E21108,ED,Askeaton West
+E21109,ED,Aughinish
+E21110,ED,Ballyallinan
+E21111,ED,Ballynacarriga
+E21112,ED,Castletown
+E21113,ED,Craggs
+E21114,ED,Croagh
+E21115,ED,Dromard
+E21116,ED,Dunmoylan East
+E21117,ED,Dunmoylan West
+E21118,ED,Iveruss
+E21119,ED,Kilcornan
+E21120,ED,Kildimo
+E21121,ED,Kilscannell
+E21122,ED,Lismakeery
+E21123,ED,Loghill
+E21124,ED,Mohernagh
+E21125,ED,Nantinan
+E21126,ED,Pallaskenry
+E21127,ED,Rathkeale Rural
+E21128,ED,Rathkeale Urban
+E21129,ED,Riddlestown
+E21130,ED,Shanagolden
+E21131,ED,Shanid
+E21132,ED,Bilboa
+E21133,ED,Doon South
+E21134,ED,Grean
+E21135,ED,Oola
+E21136,ED,Templebredon
+E22001,ED,Nenagh East Urban
+E22002,ED,Nenagh West Urban
+E22003,ED,Templemore
+E22004,ED,Thurles Urban
+E22005,ED,Aglishcloghane
+E22006,ED,Ballingarry
+E22007,ED,Ballylusky
+E22008,ED,Borrisokane
+E22009,ED,Carrig
+E22010,ED,Cloghjordan
+E22011,ED,Cloghprior
+E22012,ED,Clohaskin
+E22013,ED,Finnoe
+E22014,ED,Graigue
+E22015,ED,Kilbarron
+E22016,ED,Lorrha East
+E22017,ED,Lorrha West
+E22018,ED,Mertonhall
+E22019,ED,Rathcabban
+E22020,ED,Redwood
+E22021,ED,Riverstown
+E22022,ED,Terryglass
+E22023,ED,Uskane
+E22024,ED,Abington
+E22025,ED,Aghnameadle
+E22026,ED,Ardcrony
+E22027,ED,Ballina
+E22028,ED,Ballygibbon
+E22029,ED,Ballymackey
+E22030,ED,Ballynaclogh
+E22031,ED,Birdhill
+E22032,ED,Burgesbeg
+E22033,ED,Carrigatogher
+E22034,ED,Castletown
+E22035,ED,Derrycastle
+E22036,ED,Dolla
+E22037/22045,ED,Greenhall / Lackagh
+E22038,ED,Kilcomenty
+E22039,ED,Kilkeary
+E22040,ED,Killoscully
+E22041,ED,Kilmore
+E22042,ED,Kilnaneave
+E22043,ED,Kilnarath
+E22044,ED,Knigh
+E22046,ED,Latteragh
+E22047,ED,Monsea
+E22048,ED,Nenagh Rural
+E22049,ED,Newport
+E22050,ED,Templederry
+E22051,ED,Youghalarra
+E22052,ED,Borrisnafarney
+E22053,ED,Borrisnoe
+E22054,ED,Bourney East
+E22055,ED,Bourney West
+E22056,ED,Killavinoge
+E22057,ED,Killea
+E22058,ED,Rathnaveoge
+E22059,ED,Roscrea
+E22060,ED,Timoney
+E22061,ED,Ballycahill
+E22062,ED,Ballymurreen
+E22063,ED,Borrisoleigh
+E22064,ED,Drom
+E22065,ED,Foilnaman
+E22066,ED,Glenkeen
+E22067,ED,Gortkelly
+E22068,ED,Holycross
+E22069,ED,Inch
+E22070,ED,Kilrush
+E22071,ED,Littleton
+E22072,ED,Longfordpass
+E22073,ED,Loughmoe
+E22074,ED,Moyaliff
+E22075,ED,Moycarky
+E22076,ED,Moyne
+E22077,ED,Rahelty
+E22078,ED,Templetouhy
+E22079,ED,Thurles Rural
+E22080,ED,Twomileborris
+E22081,ED,Upperchurch
+E23082,ED,Carrickbeg Urban
+E23083,ED,Carrick-on-Suir Urban
+E23084,ED,Cashel Urban
+E23085,ED,Clonmel East Urban
+E23086,ED,Clonmel West Urban
+E23087,ED,Tipperary East Urban
+E23088,ED,Tipperary West Urban
+E23089,ED,Carrick-on-Suir Rural
+E23090,ED,Garrangibbon
+E23091,ED,Kilmurry
+E23092,ED,Newtown
+E23093,ED,Ardmayle
+E23094,ED,Ardsallagh
+E23095,ED,Ballysheehan
+E23096,ED,Cashel Rural
+E23097,ED,Clogher
+E23098,ED,Cloneen
+E23099,ED,Clonoulty East
+E23100,ED,Clonoulty West
+E23101,ED,Colman
+E23102,ED,Cooleagh
+E23103,ED,Drangan
+E23104,ED,Fethard
+E23105,ED,Gaile
+E23106,ED,Graigue
+E23107,ED,Greystown
+E23108,ED,Killeenasteena
+E23109,ED,Killenaule
+E23110,ED,Kilpatrick
+E23111,ED,Knockgraffon
+E23112,ED,Magorban
+E23113,ED,Nodstown
+E23114,ED,Oughterleague
+E23115,ED,Peppardstown
+E23116,ED,Tullamain
+E23117,ED,Ardfinnan
+E23118,ED,Ballybacon
+E23119,ED,Ballyporeen
+E23120,ED,Burncourt
+E23121,ED,Caher
+E23122,ED,Clogheen
+E23123,ED,Coolagarranroe
+E23124,ED,Derrygrath
+E23125,ED,Kilcommon
+E23126,ED,Kilcoran
+E23127,ED,Mortlestown
+E23128,ED,Newcastle
+E23129,ED,Tubbrid
+E23130,ED,Tullaghmelan
+E23131,ED,Tullaghorton
+E23132,ED,Ballyclerahan
+E23133,ED,Clonmel Rural
+E23134,ED,Inishlounaght
+E23135,ED,Kilcash
+E23137/23136,ED,Kilsheelan / Killaloan
+E23138,ED,Kiltinan
+E23139,ED,Lisronagh
+E23140,ED,Anner
+E23141,ED,Ballingarry
+E23142,ED,Ballyphilip
+E23143,ED,Buolick
+E23144,ED,Crohane
+E23145,ED,Farranrory
+E23146,ED,Fennor
+E23147,ED,Kilcooly
+E23148,ED,Kilvemnon
+E23149,ED,Modeshil
+E23150,ED,Mullinahone
+E23151,ED,New Birmingham
+E23152,ED,Poyntstown
+E23153,ED,Ballycarron
+E23154,ED,Ballygriffin
+E23155,ED,Ballykisteen
+E23156,ED,Bansha
+E23157,ED,Bruis
+E23158,ED,Cappagh
+E23159,ED,Clonbeg
+E23160,ED,Cullen
+E23161,ED,Curraheen
+E23162,ED,Donohill
+E23163,ED,Drumwood
+E23164,ED,Emly
+E23165,ED,Glengar
+E23166,ED,Golden
+E23167,ED,Kilfeakle
+E23168,ED,Killadriffe
+E23169,ED,Kilmucklin
+E23170,ED,Lattin
+E23171,ED,Rathlynin
+E23172,ED,Rodus
+E23173,ED,Shronell
+E23174,ED,Solloghodbeg
+E23175,ED,Templeneiry
+E23176,ED,Thomastown
+E23177,ED,Tipperary Rural
+E24001,ED,Ballybeg North
+E24002/24006,ED,Ballybeg South / Ballynaneashagh
+E24003,ED,Ballybricken West
+E24004,ED,Ballymaclode
+E24005,ED,Ballynakill
+E24007,ED,Ballytruckle
+E24008,ED,Bilberry
+E24009,ED,Centre A
+E24010,ED,Centre B
+E24011,ED,Cleaboy
+E24012,ED,Custom House A
+E24013,ED,Custom House B
+E24014,ED,Farranshoneen
+E24015,ED,Ferrybank
+E24016,ED,Gracedieu
+E24017,ED,Grange North
+E24018,ED,Grange South
+E24019,ED,Grange Upper
+E24020,ED,Kilbarry
+E24021,ED,Kingsmeadow
+E24022,ED,Larchville
+E24023,ED,Lisduggan
+E24024,ED,Military Road
+E24025,ED,Morrisson's Avenue East
+E24026,ED,Morrisson's Avenue West
+E24027,ED,Morrisson's Road
+E24028,ED,Mount Sion
+E24029,ED,Newport's Square
+E24030,ED,Newtown
+E24031,ED,Park
+E24032,ED,Poleberry
+E24033,ED,Roanmore
+E24034,ED,Shortcourse
+E24035,ED,Slievekeale
+E24036,ED,The Glen
+E24037,ED,Ticor North
+E24038,ED,Ticor South
+E25001,ED,Dungarvan No. 1 Urban
+E25002,ED,Dungarvan No. 2 Urban
+E25003,ED,Ballydurn
+E25004,ED,Carrickbeg Rural
+E25005,ED,Clonea
+E25006,ED,Fenoagh
+E25007,ED,Glen
+E25008,ED,Kilmeadan
+E25009,ED,Mothel
+E25010,ED,Portlaw
+E25011,ED,Rathgormuck
+E25012,ED,Ross
+E25013,ED,Ballymacarbry
+E25014,ED,Graignagower
+E25015,ED,Gurteen
+E25016,ED,Kilmacomma
+E25017,ED,Kilronan
+E25018,ED,St. Mary's
+E25019,ED,Aird Mhór
+E25020,ED,Baile Mhac Airt
+E25021,ED,Bohadoon
+E25022,ED,Cappagh
+E25023,ED,Carriglea
+E25024,ED,Clonea
+E25025,ED,Colligan
+E25026,ED,Coumaraglin
+E25027,ED,Dromana
+E25028,ED,Dromore
+E25029,ED,Dungarvan Rural
+E25030,ED,Keereen
+E25031,ED,Knockaunbrandaun
+E25032,ED,Modelligo
+E25033,ED,Mountstuart
+E25034,ED,An Rinn
+E25035,ED,Seskinan
+E25036,ED,Whitechurch
+E25037,ED,Annestown
+E25038,ED,Ballylaneen
+E25039,ED,Carrigcastle
+E25040,ED,Comeragh
+E25041,ED,Dunhill
+E25042,ED,Fews
+E25043,ED,Fox's Castle
+E25044,ED,Gardenmorris
+E25045,ED,Georgestown
+E25046,ED,Kilbarrymeaden
+E25047,ED,Kilmacthomas
+E25048,ED,Knockmahon
+E25049,ED,Mountkennedy
+E25050,ED,Newtown
+E25051,ED,Stradbally
+E25052,ED,Tinnasaggart
+E25053,ED,Ballyduff
+E25054,ED,Ballyhane
+E25055,ED,Ballyin
+E25056,ED,Ballynamult
+E25057,ED,Ballysaggartmore
+E25058,ED,Cappoquin
+E25059,ED,Castlerichard
+E25060,ED,Drumroe
+E25061,ED,Gortnapeaky
+E25062,ED,Kilcockan
+E25063,ED,Kilwatermoy East
+E25064,ED,Kilwatermoy West
+E25065,ED,Lismore Rural
+E25066,ED,Lismore Urban
+E25067,ED,Mocollop
+E25068,ED,Modelligo
+E25069,ED,Tallow
+E25070,ED,Ballynakill (Part Rural)
+E25071,ED,Drumcannon
+E25072,ED,Faithlegg (Part Rural)
+E25073,ED,Islandikane
+E25074,ED,Kilbarry (Part Rural)
+E25075,ED,Killea
+E25076,ED,Killoteran
+E25077,ED,Kilmacleague
+E25078,ED,Kilmeadan
+E25079,ED,Newcastle
+E25080,ED,Pembrokestown
+E25081,ED,Rathmoylan
+E25082,ED,Reisk
+E25083,ED,Tramore
+E25084,ED,Woodstown
+E25085,ED,Ardmore
+E25086,ED,Ballyheeny
+E25087,ED,Clashmore
+E25088,ED,Glenwilliam
+E25089,ED,Grallagh
+E25090,ED,Grange
+E25091,ED,Kinsalebeg
+E25092,ED,Templemichael
+E26001,ED,Ballybaan
+E26002,ED,Baile an Bhriotaihg
+E26003,ED,Bearna
+E26004,ED,An Caisleán Gearr
+E26005,ED,Claddagh
+E26006,ED,Dangan
+E26007,ED,Eyre Square
+E26008,ED,An Cnocán Carrach
+E26009,ED,Lough Atalia
+E26010,ED,Mionlach
+E26011,ED,Mervue
+E26012,ED,Murroogh
+E26013,ED,Newcastle
+E26014,ED,Nuns Island
+E26015,ED,Rahoon
+E26016,ED,Renmore
+E26017,ED,Rockbarton
+E26018,ED,Paróiste San Nicoláis
+E26019,ED,Salthill
+E26020,ED,Shantalla
+E26021,ED,Taylors Hill
+E26022,ED,Wellpark
+E27001,ED,Ballinasloe Urban
+E27002,ED,Abbeygormacan
+E27003,ED,Ahascragh
+E27004,ED,Aughrim
+E27005,ED,Ballinasloe Rural
+E27006,ED,Ballymacward
+E27007,ED,Clonfert
+E27008,ED,Clontuskert
+E27009,ED,Kellysgrove
+E27010,ED,Kilconnell
+E27011,ED,Killaan
+E27012,ED,Killallaghtan
+E27013,ED,Killoran
+E27014,ED,Killure
+E27015,ED,Kilmacshane
+E27016,ED,Kiltormer
+E27017,ED,Kylemore
+E27018,ED,Laurencetown
+E27019,ED,Lismanny
+E27020,ED,Oatfield
+E27021,ED,Ballynakill
+E27022,ED,Binn an Choire
+E27023,ED,Bunowen
+E27024,ED,Cleggan
+E27025,ED,Clifden
+E27026,ED,Cushkillary
+E27027/27028,ED,Derrycunlagh / Derrylea
+E27029,ED,Doonloughan
+E27030,ED,Errislannan
+E27031,ED,An Uillinn
+E27032,ED,Inishbofin
+E27033,ED,An Cnoc Buí
+E27034,ED,Maíros
+E27035,ED,Abhainn Ghabhla
+E27036,ED,Rinvyle
+E27037,ED,Cloch na Rón
+E27038,ED,Sillerna
+E27039,ED,Scainimh
+E27040,ED,Eanach Dhúin
+E27041,ED,Aughrim
+E27042,ED,Baile an Teampaill (Part Rural)
+E27043,ED,Ballynacourty
+E27044,ED,Bearna (Part Rural)
+E27045,ED,Belleville
+E27046,ED,An Carn Mór
+E27047,ED,Ceathrú an Bhrúnaigh (Part Rural)
+E27048,ED,Baile Chláir
+E27049,ED,Clarinbridge
+E27050,ED,Deerpark
+E27051,ED,Na Forbacha
+E27052,ED,Galway Rural (Part Rural)
+E27053,ED,Árainn
+E27054,ED,Cill Chuimin
+E27055,ED,Cill Aithnín
+E27056,ED,Leacach Beag
+E27057,ED,Liscananaun
+E27058,ED,Lisín an Bhealaigh
+E27059,ED,Maigh Cuilinn
+E27060,ED,Oranmore
+E27061,ED,Sailearna
+E27062,ED,Sliabh an Aonaigh
+E27063,ED,An Spidéal
+E27064,ED,Stradbally
+E27065,ED,Tulaigh Mhic Aodháin
+E27066,ED,Ballinastack
+E27067,ED,Ballymoe
+E27068,ED,Ballynakill
+E27069,ED,Boyounagh
+E27070,ED,Creggs
+E27071,ED,Curraghmore
+E27072,ED,Glennamaddy
+E27073,ED,Island
+E27074,ED,Kilcroan
+E27075,ED,Kiltullagh
+E27076,ED,Raheen
+E27077,ED,Scregg
+E27078,ED,Shankill
+E27079,ED,Templetogher
+E27080,ED,Toberroe
+E27081,ED,Ardamullivan
+E27082,ED,Ardrahan
+E27083,ED,Ballycahalan
+E27084,ED,Beagh
+E27085,ED,Cahermore
+E27086,ED,Cappard
+E27087,ED,Castletaylor
+E27088,ED,Doorus
+E27089,ED,Drumacoo
+E27090,ED,Gort
+E27091,ED,Kilbeacanty
+E27092,ED,Killeely
+E27093,ED,Killeenavarra
+E27094,ED,Killinny
+E27095,ED,Kiltartan
+E27096,ED,Kilthomas
+E27097,ED,Kinvarra
+E27098,ED,Rahasane
+E27099,ED,Skehanagh
+E27100,ED,Aille
+E27101,ED,Athenry
+E27102,ED,Ballynagar
+E27103,ED,Bracklagh
+E27104,ED,Bullaun
+E27105,ED,Cappalusk
+E27106,ED,Castleboy
+E27107,ED,Cloonkeen
+E27108,ED,Colmanstown
+E27109,ED,Craughwell
+E27110,ED,Derrylaur
+E27111,ED,Drumkeary
+E27112,ED,Graigabbey
+E27113,ED,Grange
+E27114,ED,Greethill
+E27115,ED,Kilchreest
+E27116,ED,Kilconickny
+E27117,ED,Kilconierin
+E27118,ED,Killimor
+E27119,ED,Killogilleen
+E27120,ED,Kilmeen
+E27121,ED,Kilreekill
+E27122,ED,Kilteskill
+E27123,ED,Kiltullagh
+E27124,ED,Lackalea
+E27125,ED,Leitrim
+E27127,ED,Loughrea Rural
+E27128,ED,Loughrea Urban
+E27129/27126,ED,Marblehill / Loughatorick
+E27130,ED,Mountain
+E27131,ED,Movode
+E27132,ED,Raford
+E27133,ED,Tiaquin
+E27134,ED,Woodford
+E27135,ED,Annagh
+E27136,ED,Ballynakill
+E27137,ED,Caltra
+E27138,ED,Castleblakeney
+E27139,ED,Castleffrench
+E27140,ED,Clonbrock
+E27141,ED,Cloonkeen
+E27142,ED,Cooloo
+E27143,ED,Derryglassaun
+E27144,ED,Killeroran
+E27145,ED,Killian
+E27146,ED,Mount Bellew
+E27147,ED,Mounthazel
+E27148,ED,Taghboy
+E27149,ED,Camas
+E27150,ED,An Fhairche
+E27151,ED,Conga
+E27152,ED,An Crompán
+E27153,ED,An Chorr
+E27154,ED,Garmna
+E27155,ED,Cill Chuimín
+E27156,ED,Leitir Breacáin
+E27157,ED,Letterfore
+E27158,ED,Leitir Móir
+E27159,ED,Oughterard
+E27160,ED,An Ros
+E27161,ED,An Turlach
+E27162,ED,Wormhole
+E27163,ED,Abbeyville
+E27164,ED,Ballyglass
+E27165,ED,Coos
+E27166,ED,Derrew
+E27167,ED,Drummin
+E27168,ED,Eyrecourt
+E27169,ED,Killimor
+E27170,ED,Kilmalinoge
+E27171,ED,Kilquain
+E27172,ED,Meelick
+E27173,ED,Moat
+E27174,ED,Pallas
+E27175,ED,Portumna
+E27176,ED,Tiranascragh
+E27177,ED,Tynagh
+E27178,ED,Abbey East
+E27179,ED,Abbey West
+E27180,ED,Addergoole
+E27181,ED,Annaghdown
+E27182,ED,Ballinderry
+E27183,ED,Ballinduff
+E27184,ED,Ballynapark
+E27185,ED,Beaghmore
+E27186,ED,Belclare
+E27187,ED,Carrownagur
+E27188,ED,Carrowrevagh
+E27189,ED,Claretuam
+E27190,ED,Clonbern
+E27191,ED,Cloonkeen
+E27192,ED,Cummer
+E27193,ED,Donaghpatrick
+E27194,ED,Doonbally
+E27195,ED,Dunmore North
+E27196,ED,Dunmore South
+E27197,ED,Foxhall
+E27198,ED,Headford
+E27199,ED,Hillsbrook
+E27200,ED,Kilbennan
+E27201,ED,Kilcoona
+E27202,ED,Killeany
+E27203,ED,Killeen
+E27204,ED,Killererin
+E27205,ED,Killower
+E27206,ED,Killursa
+E27207,ED,Kilmoylan
+E27208,ED,Kilshanvy
+E27209,ED,Levally
+E27210,ED,Milltown
+E27211,ED,Monivea
+E27212,ED,Moyne
+E27213,ED,Ryehill
+E27214,ED,Toberadosh
+E27215,ED,Tuam Rural
+E27216,ED,Tuam Urban
+E28001,ED,Ballinamore
+E28002,ED,Cloverhill
+E28003,ED,Corrala
+E28004,ED,Drumreilly North
+E28005,ED,Drumreilly South
+E28006,ED,Garadice
+E28007/28011,ED,Greaghglass / Stralongford
+E28008,ED,Killygar
+E28009,ED,Newtowngore
+E28010,ED,Oughteragh
+E28012,ED,Aghacashel
+E28013,ED,Annaduff
+E28014,ED,Barnameenagh
+E28015,ED,Carrick-on-Shannon
+E28017/28016,ED,Drumreilly West / Drumreilly East
+E28018,ED,Drumshanbo
+E28019,ED,Drumsna
+E28020,ED,Gortnagullion
+E28021,ED,Gowel
+E28022,ED,Keshcarrigan
+E28023,ED,Kiltubbrid
+E28024,ED,Leitrim
+E28025,ED,Moher
+E28026,ED,Yugan
+E28027/28028,ED,Aghalateeve / Aghanlish
+E28029/28032,ED,Aghavoghill / Melvin
+E28030,ED,Gubacreeny
+E28031,ED,Kinlough
+E28033,ED,Tullaghan
+E28035,ED,Ballaghameehan
+E28036,ED,Belhavel
+E28037,ED,Cloonclare
+E28038,ED,Cloonlogher
+E28039,ED,Drumahaire
+E28040,ED,Drumkeeran
+E28041/28034,ED,Garvagh / Arigna
+E28042,ED,Glenade
+E28043,ED,Glenaniff
+E28044,ED,Glenboy
+E28045,ED,Glencar
+E28046,ED,Glenfarn
+E28047,ED,Killanummery
+E28048,ED,Killarga
+E28049,ED,Kiltyclogher
+E28050,ED,Lurganboy
+E28051,ED,Mahanagh
+E28052,ED,Manorhamilton
+E28053,ED,Munakill
+E28054,ED,Sramore
+E28055,ED,St. Patrick's
+E28056,ED,Aghavas
+E28057,ED,Beihy
+E28058,ED,Breandrum
+E28059,ED,Bunnybeg
+E28060,ED,Carrigallen East
+E28061,ED,Carrigallen West
+E28062,ED,Cashel
+E28063,ED,Castlefore
+E28064,ED,Cattan
+E28065,ED,Cloone
+E28066,ED,Corriga
+E28067,ED,Drumard
+E28068,ED,Drumdoo
+E28069,ED,Drumod
+E28070,ED,Fenagh
+E28071,ED,Gortermone
+E28072,ED,Keeldra
+E28073,ED,Lisgillock
+E28074,ED,Mohill
+E28075,ED,Rinn
+E28076,ED,Riverstown
+E28077,ED,Roosky
+E28078,ED,Rowan
+E29001,ED,Ardnaree South Urban
+E29002,ED,Ballina Urban
+E29003,ED,Castlebar Urban
+E29004,ED,Westport Urban
+E29005,ED,Ardagh
+E29006,ED,Ardnaree North
+E29007,ED,Ardnaree South Rural
+E29008,ED,Attymass East
+E29009,ED,Attymass West
+E29010,ED,Ballina Rural
+E29011,ED,Ballycastle
+E29012,ED,Ballysakeery
+E29013,ED,Béal Deirg Mór
+E29014,ED,Bunaveela
+E29015,ED,Carrowmore
+E29016,ED,Crossmolina North
+E29017,ED,Crossmolina South
+E29018,ED,Deel
+E29019,ED,Derry
+E29020,ED,Fortland
+E29021,ED,Kilfian East
+E29022,ED,Kilfian South
+E29023,ED,Kilfian West
+E29024,ED,Kilgarvan
+E29025,ED,Killala
+E29026,ED,Lackan North
+E29027,ED,Lackan South
+E29028,ED,Letterbrick
+E29029,ED,Mount Falcon
+E29030,ED,Rathoma
+E29031,ED,Sallymount
+E29032,ED,Sraheen
+E29033,ED,Baile an Chalaidh
+E29034,ED,Ballinrobe
+E29035,ED,Baile Óbha
+E29036,ED,Burriscarra
+E29037,ED,An Cheapaigh Dhuibh
+E29038,ED,Cong
+E29039,ED,Coonard
+E29040,ED,Dalgan
+E29041,ED,Hollymount
+E29042,ED,Houndswood
+E29043,ED,Kilcommon
+E29044,ED,Kilmaine
+E29045,ED,Neale
+E29046,ED,Newbrook
+E29047,ED,Abhainn Bhrain
+E29048,ED,Partraí
+E29049,ED,Roslee
+E29050,ED,Shrule
+E29051,ED,An Geata Mór Thuaidh
+E29052,ED,An Geata Mór Theas
+E29053,ED,Bangor
+E29054,ED,Barr Rúscaí
+E29055,ED,Béal an Mhuirthead
+E29056,ED,Gleann na Muaidhe
+E29057,ED,Gleann Chaisil
+E29058/29065,ED,Glenco / Sheskin
+E29059,ED,Guala Mhór
+E29060,ED,Cnoc an Daimh
+E29061,ED,Cnoc na Lobhar
+E29062,ED,Moing na Bó
+E29063,ED,Na Monga
+E29064,ED,Cnoc na Ráithe
+E29066,ED,Addergoole
+E29067,ED,Balla
+E29068,ED,Ballinafad
+E29069,ED,Ballyhean
+E29070,ED,Ballynagoraher
+E29071,ED,Bellavary
+E29072,ED,Breaghwy
+E29073,ED,Burren
+E29074,ED,Castlebar Rural
+E29075,ED,Clogher
+E29076,ED,Cloonkeen
+E29077,ED,Croaghmoyle
+E29078,ED,Killavally
+E29079,ED,Manulla
+E29080,ED,Pontoon
+E29081,ED,Strade
+E29082,ED,Tamhnaigh na Graí
+E29083,ED,Turlough
+E29084,ED,Ballindine
+E29085,ED,Ballyhaunis
+E29086,ED,Ballyhowly
+E29087,ED,Bekan
+E29088,ED,Caraun
+E29089,ED,Claremorris
+E29090,ED,Cloghermore
+E29091,ED,Course
+E29092,ED,Crossboyne
+E29093,ED,Culnacleha
+E29094,ED,Garrymore
+E29095,ED,Kilcolman
+E29096,ED,Kilvine
+E29097,ED,Knock North
+E29098,ED,Knock South
+E29099,ED,Loughanboy
+E29100,ED,Mayo
+E29101,ED,Murneen
+E29102,ED,Tagheen
+E29103,ED,Aghamore
+E29104,ED,Ballinamore
+E29105,ED,Bohola
+E29106,ED,Brackloon
+E29107,ED,Callow
+E29108,ED,Cloonmore
+E29109,ED,Coolnaha
+E29110,ED,Cuildoo
+E29111,ED,Doocastle
+E29112,ED,Kilbeagh
+E29113,ED,Kilkelly
+E29114,ED,Killedan
+E29115,ED,Kilmovee
+E29116,ED,Kiltamagh
+E29117,ED,Meelick
+E29118,ED,Sonnagh
+E29119,ED,Swineford
+E29120,ED,Toocananagh
+E29121,ED,Toomore
+E29122,ED,Tumgesh
+E29123,ED,Urlaur
+E29124,ED,Acaill
+E29125,ED,Aghagower North
+E29126,ED,Aghagower South
+E29127,ED,Aillemore
+E29128,ED,Ballycroy North
+E29129,ED,Ballycroy South
+E29131,ED,Clare Island
+E29132,ED,Clogher
+E29133,ED,An Corrán
+E29134,ED,Croaghpatrick
+E29135,ED,Derryloughan
+E29136,ED,Dumha Éige
+E29137,ED,Drummin
+E29138,ED,Emlagh
+E29139,ED,Erriff
+E29140,ED,Glenhest
+E29141,ED,Islandeady
+E29142,ED,Kilgeever
+E29143,ED,Kilmaclasser
+E29144,ED,Kilmeena
+E29145,ED,Kilsallagh
+E29146,ED,Knappagh
+E29147,ED,Louisburgh
+E29148,ED,Newport East
+E29149,ED,Newport West
+E29150/29130,ED,Owennadornaun / Bundorragha
+E29151,ED,Slievemahanagh
+E29152,ED,Slievemore
+E29153,ED,Srahmore
+E29154,ED,Westport Rural
+E30001,ED,Athlone West Rural
+E30002,ED,Ballydangan
+E30003,ED,Ballynamona
+E30004,ED,Caltragh
+E30005,ED,Carnagh
+E30006,ED,Carrowreagh
+E30007,ED,Castlesampson
+E30008,ED,Cloonburren
+E30009,ED,Cloonown
+E30010,ED,Crannagh
+E30011,ED,Creagh
+E30012,ED,Culliagh
+E30013,ED,Drumlosh
+E30014,ED,Dysart
+E30015,ED,Kilcar
+E30016,ED,Kiltoom
+E30017,ED,Lecarrow
+E30018,ED,Moore
+E30019,ED,Rockhill
+E30020,ED,Taghboy
+E30021,ED,Taghmaconnell
+E30022,ED,Thomastown
+E30023,ED,Turrock
+E30024,ED,Aghafin
+E30026,ED,Aughrim East
+E30027,ED,Aughrim West
+E30028,ED,Ballyfarnan
+E30029,ED,Ballyfermoyle
+E30030,ED,Boyle Rural
+E30031,ED,Boyle Urban
+E30032,ED,Breedoge
+E30033,ED,Cloonteen
+E30034,ED,Creeve
+E30035,ED,Croghan
+E30036,ED,Crossna
+E30037,ED,Danesfort
+E30038,ED,Estersnow
+E30039,ED,Keadew
+E30040,ED,Kilbryan
+E30041,ED,Kilcolagh
+E30042,ED,Killukin
+E30043,ED,Killummod
+E30044,ED,Kilmacumsy
+E30045,ED,Kilmore
+E30046/30048,ED,Lisgarve / Mantua
+E30047/30025,ED,Lough Allen / Altagowlan
+E30049,ED,Oakport
+E30050,ED,Rockingham
+E30051,ED,Rushfield
+E30052,ED,Tivannagh
+E30053,ED,Tumna North
+E30054,ED,Tumna South
+E30055,ED,Artagh North
+E30056,ED,Artagh South
+E30057,ED,Ballaghaderreen
+E30058,ED,Ballinlough
+E30059,ED,Ballintober
+E30060,ED,Baslick
+E30061,ED,Bellanagare
+E30062,ED,Buckill
+E30063,ED,Carrowduff
+E30064,ED,Castleplunket
+E30065,ED,Castlereagh
+E30066,ED,Castleteheen
+E30067,ED,Cloonfower
+E30068,ED,Coolougher
+E30069,ED,Edmondstown
+E30070,ED,Fairymount
+E30071,ED,Frenchpark
+E30072,ED,Kiltullagh
+E30073,ED,Loughglinn
+E30074,ED,Annaghmore
+E30075,ED,Athleague East
+E30076,ED,Athleague West
+E30077,ED,Ballygarden
+E30078,ED,Bumlin
+E30079,ED,Cams
+E30080,ED,Cloonfinlough
+E30081,ED,Cloontuskert
+E30082,ED,Cloonygormican
+E30083,ED,Cloonyquin
+E30084,ED,Creeve
+E30085,ED,Cregga
+E30086,ED,Drumdaff
+E30087,ED,Dunamon
+E30088,ED,Elia
+E30089,ED,Elphin
+E30090,ED,Fuerty
+E30091,ED,Kilbride North
+E30092,ED,Kilbride South
+E30093,ED,Kilgefin
+E30094,ED,Kilglass North
+E30095,ED,Kilglass South
+E30096,ED,Killavackan
+E30097,ED,Killukin
+E30098,ED,Kilteevan
+E30099,ED,Lackan
+E30100,ED,Lismaha
+E30101,ED,Lissonuffy
+E30102,ED,Mote
+E30103,ED,Ogulla
+E30104,ED,Roosky
+E30105,ED,Roscommon Rural
+E30106,ED,Roscommon Urban
+E30107,ED,Rosmoylan
+E30108,ED,Rossmore
+E30109,ED,Scregg
+E30110,ED,Strokestown
+E30111,ED,Termonbarry
+E30112,ED,Tulsk
+E31001,ED,Sligo East
+E31002,ED,Sligo North
+E31003,ED,Sligo West
+E31004,ED,Aghanagh
+E31005,ED,Ballynashee
+E31006,ED,Coolavin
+E31007,ED,Cuilmore
+E31008,ED,Drumrat
+E31009,ED,Kilfree
+E31010,ED,Killadoon
+E31011,ED,Killaraght
+E31012,ED,Kilmactranny
+E31013,ED,Kilshalvy
+E31014,ED,Shancough
+E31015,ED,Templevanny
+E31016,ED,Toomour
+E31017,ED,Aughris
+E31018,ED,Buncrowey
+E31019,ED,Castleconor East
+E31020,ED,Castleconor West
+E31021,ED,Dromard East
+E31022,ED,Dromard West
+E31023,ED,Dromore
+E31024,ED,Easky East
+E31025,ED,Easky West
+E31026,ED,Kilglass
+E31028,ED,Rathmacurkey
+E31029,ED,Skreen
+E31030,ED,Templeboy North
+E31031/31027,ED,Templeboy South / Mullagheruse
+E31032,ED,Toberpatrick East
+E31033,ED,Toberpatrick West
+E31034,ED,Ballintogher East
+E31035,ED,Ballintogher West
+E31036,ED,Ballymote
+E31037,ED,Ballynakill
+E31038,ED,Ballysadare East
+E31039,ED,Ballysadare West
+E31040,ED,Bricklieve
+E31041,ED,Calry
+E31042,ED,Carney
+E31043,ED,Carrickbanagher
+E31044,ED,Cliffony North
+E31045,ED,Cliffony South
+E31046,ED,Collooney
+E31047,ED,Drumcliff East
+E31048,ED,Drumcliff West
+E31049,ED,Drumcolumb
+E31050,ED,Drumfin
+E31051,ED,Glencar
+E31052,ED,Kilmacowen
+E31053,ED,Knockaree
+E31054,ED,Lakeview
+E31055,ED,Lisconny
+E31056,ED,Lissadill East
+E31057,ED,Lissadill North
+E31058,ED,Lissadill West
+E31059,ED,Riverstown
+E31060,ED,Rossinver East
+E31061,ED,Rossinver West
+E31062,ED,Achonry East
+E31063,ED,Achonry West
+E31064,ED,Aclare
+E31065,ED,Annagh
+E31066,ED,Banada
+E31067/31069,ED,Branchfield / Carrownaskeagh
+E31068,ED,Breencorragh
+E31070,ED,Cartron
+E31072,ED,Cloonoghill
+E31073,ED,Coolaney
+E31074,ED,Glendarragh
+E31075,ED,Kilmacteige
+E31076,ED,Kilturra
+E31077,ED,Leitrim
+E31078/31071,ED,Loughill / Cloonacool
+E31079,ED,Owenmore
+E31080,ED,Streamstown
+E31081,ED,Temple
+E31082,ED,Tobercurry
+E32001,ED,Cavan Urban
+E32002,ED,Bailieborough
+E32003,ED,Carnagarve
+E32004,ED,Crossbane
+E32005,ED,Drumanespick
+E32006,ED,Enniskeen
+E32007,ED,Killinkere
+E32008,ED,Kingscourt
+E32009,ED,Lisagoan
+E32010,ED,Mullagh
+E32011,ED,Shercock
+E32012,ED,Skeagh
+E32013,ED,Taghart
+E32014,ED,Termon
+E32015,ED,Ballyconnell
+E32016,ED,Ballymagauran
+E32017,ED,Bawnboy
+E32019,ED,Bilberry
+E32020,ED,Carn
+E32021,ED,Diamond
+E32022,ED,Doogary
+E32023,ED,Kinawley
+E32024,ED,Lissanover
+E32025/32028,ED,Pedara Vohers / Tircahan
+E32026,ED,Swanlinbar
+E32027/32018,ED,Templeport / Benbrack
+E32029,ED,Ballyjamesduff
+E32030,ED,Castlerahan
+E32031,ED,Kilbride
+E32032,ED,Lurgan
+E32033,ED,Munterconnaught
+E32034,ED,Virginia
+E32035,ED,Ardue
+E32036,ED,Arvagh
+E32037,ED,Ashfield
+E32038,ED,Ballintemple
+E32039,ED,Ballyhaise
+E32040,ED,Ballymachugh
+E32041,ED,Bellananagh
+E32042,ED,Belturbet Urban
+E32043,ED,Bruce Hall
+E32044,ED,Butler's Bridge
+E32045,ED,Canningstown
+E32046,ED,Carrafin
+E32047,ED,Castlesaunderson
+E32048,ED,Cavan Rural
+E32049,ED,Clonervy
+E32050,ED,Cootehill Rural
+E32051,ED,Cootehill Urban
+E32052,ED,Corr
+E32053,ED,Corraneary
+E32054,ED,Crossdoney
+E32055,ED,Crosskeys
+E32056,ED,Cuttragh
+E32057,ED,Denn
+E32058,ED,Derrin
+E32059,ED,Drumcarban
+E32060,ED,Drumcarn
+E32061,ED,Drung
+E32062,ED,Graddum
+E32063,ED,Grilly
+E32064,ED,Kilconny
+E32065,ED,Kill
+E32066,ED,Killashandra
+E32067,ED,Killykeen
+E32068,ED,Kilnaleck
+E32069,ED,Knappagh
+E32070,ED,Larah North
+E32071,ED,Larah South
+E32072,ED,Milltown
+E32073,ED,Moynehall
+E32074,ED,Rakenny
+E32075,ED,Redhill
+E32076,ED,Springfield
+E32077,ED,Stradone
+E32078,ED,Tullyvin East
+E32079,ED,Tullyvin West
+E32080,ED,Waterloo
+E32081,ED,Derrylahan
+E32083,ED,Dowra
+E32084/32082,ED,Dunmakeever / Derrynananta
+E32085,ED,Eskey
+E32086/32087,ED,Killinagh / Teebane
+E32088,ED,Tuam
+E32089,ED,Drumlumman
+E32090,ED,Kilcogy
+E32091,ED,Kilgolagh
+E32092,ED,Loughdawan
+E32093,ED,Scrabby
+E33001,ED,Buncrana Urban
+E33002,ED,Bundoran Urban
+E33003,ED,Letterkenny Urban
+E33004,ED,Ballintra
+E33005,ED,Ballyshannon Rural
+E33006,ED,Ballyshannon Urban
+E33007,ED,Bundoran Rural
+E33008,ED,Carrickboy
+E33009,ED,Cavangarden
+E33010,ED,Cliff
+E33011,ED,Ballintra
+E33012,ED,An Bhinn Bhán
+E33013,ED,Bonnyglen
+E33014,ED,Clogher
+E33015,ED,Corkermore
+E33016,ED,Donegal
+E33017,ED,Dunkineely
+E33018,ED,Eanymore
+E33019,ED,Grousehall
+E33020,ED,Haugh
+E33021,ED,Inver
+E33022,ED,Laghy
+E33023,ED,Loch Iascaigh
+E33024,ED,Pettigoe
+E33025,ED,Tantallon
+E33026,ED,Tawnawully
+E33027,ED,Templecarn
+E33028,ED,Tullynaught
+E33029,ED,Ards
+E33030,ED,Críoch na Sméar
+E33031,ED,An Craoslach
+E33032,ED,Na Croisbhealaí
+E33033,ED,Caisleán na dTuath
+E33034,ED,Dún Fionnachaidh
+E33035,ED,Dún Lúiche
+E33036,ED,Gort an Choirce
+E33037,ED,Machaire Chlochair
+E33038,ED,Mín an Chladaigh
+E33039,ED,Anagaire
+E33040,ED,Árainn Mhór
+E33041,ED,Ard an Rátha
+E33042,ED,Cró Bheithe
+E33043,ED,Cró Chaorach
+E33044,ED,Crownarad
+E33045,ED,Dawros
+E33046,ED,An Dúchoraidh
+E33047,ED,An Clochán Liath
+E33048,ED,Baile na Finne
+E33049,ED,Gleann Cholm Cille
+E33050,ED,Gleann Gheis
+E33051,ED,Gleann Léithín
+E33052,ED,Na Gleannta
+E33053,ED,An Ghrafaidh
+E33054,ED,Inis Caoil
+E33055,ED,Cill Charthaigh
+E33056,ED,Cill Ghabhlaigh
+E33057,ED,Killybegs
+E33058,ED,An Leargaidh Mhór
+E33059,ED,Leitir Mhic an Bhaird
+E33060,ED,Maas
+E33061,ED,An Machaire
+E33062,ED,Málainn Bhig
+E33063,ED,Maol Mosóg
+E33064,ED,Inis Mhic an Doirn
+E33065,ED,Tieveskeelta
+E33066,ED,Ardmalin
+E33067,ED,Ballyliffin
+E33068,ED,Birdstown
+E33069,ED,Buncrana Rural
+E33070,ED,Burt
+E33071,ED,Carndonagh
+E33072,ED,Carthage
+E33073,ED,Castlecary
+E33074,ED,Castleforward
+E33075,ED,Culdaff
+E33076,ED,Desertegny
+E33077,ED,Dunaff
+E33078,ED,Fahan
+E33079,ED,Glennagannon
+E33080,ED,Gleneely
+E33081,ED,Glentogher
+E33082,ED,Greencastle
+E33083,ED,Illies
+E33084,ED,Inch Island
+E33085,ED,Kilderry
+E33086,ED,Killea
+E33087,ED,Malin
+E33088,ED,Mintiaghs
+E33089,ED,Moville
+E33090,ED,Newtown Cunningham
+E33091,ED,Redcastle
+E33092,ED,Straid
+E33093,ED,Three Trees
+E33094,ED,Turmone
+E33095,ED,Whitecastle
+E33096,ED,Ballymacool
+E33097,ED,Castlewray
+E33098,ED,Mín an Lábáin
+E33099,ED,Corravaddy
+E33100,ED,Edenacarnan
+E33101,ED,Gartán
+E33102,ED,Gortnavern
+E33103,ED,Killymasny
+E33104,ED,Kincraigy
+E33105,ED,Letterkenny Rural
+E33106,ED,Magheraboy
+E33107,ED,Manorcunningham
+E33108,ED,Suí Corr
+E33109,ED,Templedouglas
+E33110,ED,Ballyarr
+E33111,ED,Carraig Airt
+E33112,ED,An Cheathrú Chaol
+E33113,ED,Creamhghort
+E33114,ED,Fánaid Thuaidh
+E33115,ED,Fánaid Thiar
+E33116,ED,Glen
+E33117,ED,Glenalla
+E33118,ED,Grianfort
+E33119,ED,Killygarvan
+E33120,ED,Kilmacrenan
+E33121,ED,Cnoc Colbha
+E33122,ED,Loch Caol
+E33123,ED,Millford
+E33124,ED,Rathmelton
+E33125,ED,Rathmullan
+E33126,ED,Ros Goill
+E33127,ED,Rosnakill
+E33128,ED,An Tearmann
+E33129,ED,Allt na Péiste
+E33130,ED,Castlefinn
+E33131,ED,An Clochán
+E33132,ED,Cloghard
+E33133,ED,Clonleigh North
+E33134,ED,Clonleigh South
+E33135,ED,Convoy
+E33136,ED,Dooish
+E33137,ED,Feddyglass
+E33138,ED,Figart
+E33139,ED,Gleneely
+E33140,ED,Goland
+E33141,ED,Killygordon
+E33142,ED,Knock
+E33143,ED,Lettermore
+E33144,ED,Mín Charraigeach
+E33145,ED,Raphoe
+E33146,ED,St. Johnstown
+E33147,ED,Stranorlar
+E33148,ED,Treantaghmucklagh
+E33149,ED,Urney West
+E34001,ED,Carrickmacross Urban
+E34002,ED,Castleblayney Urban
+E34003,ED,Clones Urban
+E34004,ED,Monaghan Urban
+E34005,ED,Ballymackney
+E34006,ED,Bocks
+E34007,ED,Carrickmacross Rural
+E34008,ED,Corracharra
+E34009,ED,Crossalare
+E34010,ED,Donaghmoyne
+E34011,ED,Drumboory
+E34012,ED,Drumcarrow
+E34013,ED,Drumgurra
+E34014,ED,Enagh
+E34015,ED,Inishkeen
+E34016,ED,Kilmurry
+E34017,ED,Kiltybegs
+E34018,ED,Loughfea
+E34019,ED,Raferagh
+E34020,ED,Annayalla
+E34021,ED,Ballybay Rural
+E34022,ED,Ballybay Urban
+E34023,ED,Bellatrain
+E34024,ED,Broomfield
+E34025,ED,Carrickaslane
+E34026,ED,Carrickatee
+E34027,ED,Castleblayney Rural
+E34028,ED,Church Hill
+E34029,ED,Creeve
+E34030,ED,Cremartin
+E34031,ED,Greagh
+E34032,ED,Laragh
+E34033,ED,Mullyash
+E34034,ED,Aghabog
+E34035,ED,Anny
+E34036,ED,Clones Rural
+E34037,ED,Cormeen
+E34038,ED,Currin
+E34039,ED,Dawsongrove
+E34040,ED,Drum
+E34041,ED,Drummully
+E34042,ED,Killeevan
+E34043,ED,Killynenagh
+E34044,ED,Lisnaveane
+E34045,ED,Newbliss
+E34046,ED,St. Tierney
+E34047,ED,Anketell Grove
+E34048,ED,Bellanode
+E34049,ED,Bragan
+E34050,ED,Caddagh
+E34051,ED,Castleshane
+E34052,ED,Clones
+E34053,ED,Clontibret
+E34054,ED,Derrygorry
+E34055,ED,Drumhillagh
+E34056,ED,Drumsnat
+E34057,ED,Emyvale
+E34058,ED,Enagh
+E34059,ED,Figullar
+E34060,ED,Glaslough
+E34061,ED,Killylough
+E34062,ED,Kilmore
+E34063,ED,Monaghan Rural
+E34064,ED,Rackwallace
+E34065,ED,Scotstown
+E34066,ED,Shanmullagh
+E34067,ED,Sheskin
+E34068,ED,Tedavnet
+E34069,ED,Tehallan
+E34070,ED,Tullycorbet
